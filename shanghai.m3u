@@ -3,9 +3,9 @@
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/index.m3u8?
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
