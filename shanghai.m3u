@@ -97,7 +97,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",东方影视 8M
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经 8M
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
