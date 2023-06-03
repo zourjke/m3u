@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfJwjG74/CCTV1.jpg" group-title="央视",CCTV-1
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nffb5Gxq/CCTV2.jpg" group-title="央视",CCTV-2
