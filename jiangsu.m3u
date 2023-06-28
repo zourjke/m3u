@@ -85,6 +85,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvYBpmx3/CQWS.jpg" group-title="卫视",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfJwjG74/CCTV1.jpg" group-title="4K",CCTV-1
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqsN069Y/CCTV8K.jpg" group-title="4K",CCTV-8K
