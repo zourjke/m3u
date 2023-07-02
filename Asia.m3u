@@ -301,7 +301,7 @@ http://bad-ass.site/php/histar.php?id=493
 http://bad-ass.site/php/histar.php?id=494
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="卫视",卫视中文台
 http://bad-ass.site/php/histar.php?id=495
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="卫视",卫视电影台
+#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="星世界",卫视电影台
 http://bad-ass.site/php/histar.php?id=496
 #EXTINF:-1,tvg-id="龙祥电影台" tvg-name="龙祥电影台" tvg-logo="https://epg.112114.xyz/logo/龙祥电影台.png" group-title="星世界",龙祥电影台
 http://bad-ass.site/php/histar.php?id=497
@@ -329,9 +329,9 @@ http://bad-ass.site/php/histar.php?id=507
 http://bad-ass.site/php/histar.php?id=508
 #EXTINF:-1,tvg-id="星卫娱乐" tvg-name="星卫娱乐" tvg-logo="https://epg.112114.xyz/logo/星卫娱乐.png" group-title="星世界",星卫娱乐台
 http://bad-ass.site/php/histar.php?id=509
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="星世界",MTV Live HD 棰戦亾
+#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="星世界",MTV Live HD
 http://bad-ass.site/php/histar.php?id=510
-#EXTINF:-1,tvg-id="国兴卫视" tvg-name="国兴卫视" tvg-logo="https://epg.112114.xyz/logo/国兴卫视.png" group-title="卫视",国兴卫视
+#EXTINF:-1,tvg-id="国兴卫视" tvg-name="国兴卫视" tvg-logo="https://epg.112114.xyz/logo/国兴卫视.png" group-title="星世界",国兴卫视
 http://bad-ass.site/php/histar.php?id=511
 #EXTINF:-1,tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://epg.112114.xyz/logo/ASTROAWANI.png" group-title="星世界",Astro Awani
 http://bad-ass.site/php/histar.php?id=246
