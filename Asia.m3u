@@ -37,7 +37,7 @@ http://bad-ass.site/php/fast.php?id=live1044
 http://bad-ass.site/php/fast.php?id=live1043
 #EXTINF:-1,tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" group-title="台湾频道",八大综合 HD
 http://bad-ass.site/php/fast.php?id=live1019
-#EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="台湾",三立台湾 HD
+#EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="台湾频道",三立台湾 HD
 http://bad-ass.site/php/fast.php?id=live1021
 #EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="台湾频道",三立都会 HD
 http://bad-ass.site/php/fast.php?id=live1020
@@ -179,7 +179,7 @@ http://bad-ass.site/php/histar.php?id=155
 http://bad-ass.site/php/histar.php?id=173
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="星世界",凤凰卫视
 http://bad-ass.site/php/histar.php?id=228
-#EXTINF:-1,tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="卫视",澳门莲花卫视
+#EXTINF:-1,tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/莲花卫视.png" group-title="星世界",澳门莲花卫视
 http://bad-ass.site/php/histar.php?id=231
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="星世界",TVB 无线新闻台
 http://bad-ass.site/php/histar.php?id=278
@@ -299,7 +299,7 @@ http://bad-ass.site/php/histar.php?id=492
 http://bad-ass.site/php/histar.php?id=493
 #EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="星世界",东森洋片
 http://bad-ass.site/php/histar.php?id=494
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="卫视",卫视中文台
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="星世界",卫视中文台
 http://bad-ass.site/php/histar.php?id=495
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="星世界",卫视电影台
 http://bad-ass.site/php/histar.php?id=496
