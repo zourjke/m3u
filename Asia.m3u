@@ -75,3 +75,75 @@ https://rjke.eu.org/live/4gtv.php?id=4gtv-4gtv013
 https://rjke.eu.org/live/4gtv.php?id=4gtv-live130
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="澳门",澳门莲花
 https://rjke.eu.org/live/lotustv.php
+#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="油管新闻",鳳凰資訊
+https://www.youtube.com/watch?v=sUISafvOieY
+#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="油管新闻",凤凰卫视
+https://www.youtube.com/watch?v=dmDg7NfUoSw
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管新闻",TVBS新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="油管新闻",TVBS NEWS LIVE
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1,tvg-id="寰宇全球新聞" tvg-name="寰宇全球新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇全球新聞.png" group-title="油管新闻",寰宇全球新聞
+https://www.youtube.com/watch?v=DDvdmzvaNJs
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="油管新闻",寰宇新聞
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="油管新闻",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1,tvg-id="東森Live" tvg-name="東森Live" tvg-logo="https://epg.112114.xyz/logo/東森LIVE.png" group-title="油管新闻",東森Live
+https://www.youtube.com/watch?v=R2iMq5LKXco
+#EXTINF:-1,tvg-id="東森新闻" tvg-name="東森新闻" tvg-logo="https://epg.112114.xyz/logo/東森新闻.png" group-title="油管新闻",東森新闻
+https://www.youtube.com/watch?v=khuZW5GdBXo
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="油管新闻",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="油管新闻",中天新聞
+https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+#EXTINF:-1,tvg-id="中天新聞2" tvg-name="中天新聞2" tvg-logo="https://epg.112114.xyz/logo/中天新聞2.png" group-title="油管新闻",中天新聞2
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1,tvg-id="三立live" tvg-name="三立live" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="油管新闻",三立live
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1,tvg-id="三立inews" tvg-name="三立inews" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="油管新闻",三立inews
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,tvg-id="三立NEWS+" tvg-name="三立NEWS+" tvg-logo="https://epg.112114.xyz/logo/三立NEWS+.png" group-title="油管新闻",三立NEWS+
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="油管新闻",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="油管新闻",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="油管新闻",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="油管新闻",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,tvg-id="EBC東森財經" tvg-name="EBC東森財經" tvg-logo="https://epg.112114.xyz/logo/EBC東森財經.png" group-title="油管新闻",EBC東森財經
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1,tvg-id="三立財經" tvg-name="三立財經" tvg-logo="https://epg.112114.xyz/logo/三立財經.png" group-title="油管新闻",三立財經
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="油管新闻",NHK WORLD
+https://www.youtube.com/watch?v=f0lYkdA-Gtw
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="油管新闻",Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="油管新闻",FRANCE 24
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1,tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="油管新闻",ABC News
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="油管新闻",Euronews English
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="油管新闻",DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1,tvg-id="ANN News" tvg-name="ANN News" tvg-logo="https://epg.112114.xyz/logo/ANNNEWS.png" group-title="油管新闻",ANN News
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1,tvg-id="KBS KOREA" tvg-name="KBS KOREA" tvg-logo="https://epg.112114.xyz/logo/KBSKOREA.png" group-title="油管新闻",KBS KOREA
+https://www.youtube.com/watch?v=HnfpTMtfFk8
+#EXTINF:-1,tvg-id="NBC NEW" tvg-name="NBC NEW" tvg-logo="https://epg.112114.xyz/logo/NBCNEW.png" group-title="油管新闻",NBC NEW
+https://www.youtube.com/watch?v=0IUbD_4ytuo
+#EXTINF:-1,tvg-id="CCTV中文国际" tvg-name="CCTV中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV中文国际.png" group-title="油管新闻",CCTV中文国际
+https://www.youtube.com/watch?v=9sE12tg3CmA
+#EXTINF:-1,tvg-id="东森财经股市" tvg-name="东森财经股市" tvg-logo="https://epg.112114.xyz/logo/东森财经股市.png" group-title="油管新闻",东森财经股市
+https://www.youtube.com/watch?v=LbS-xQ67fos
+#EXTINF:-1,tvg-id="公視直播" tvg-name="公視直播" tvg-logo="https://epg.112114.xyz/logo/公視直播.png" group-title="油管新闻",公視直播
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1,tvg-id="KOMPASTV" tvg-name="KOMPASTV" tvg-logo="https://epg.112114.xyz/logo/KOMPASTV.png" group-title="油管新闻",KOMPASTV
+https://www.youtube.com/watch?v=4rmf-lk3ito
+#EXTINF:-1,tvg-id="东京新宿" tvg-name="东京新宿" tvg-logo="https://epg.112114.xyz/logo/东京新宿.png" group-title="油管新闻",东京新宿
+https://www.youtube.com/watch?v=DjdUEyjx8GM
+#EXTINF:-1,tvg-id="台灣地震監視" tvg-name="台灣地震監視" tvg-logo="https://epg.112114.xyz/logo/台灣地震監視.png" group-title="油管新闻",台灣地震監視
+https://www.youtube.com/watch?v=Owke6Quk7T0
