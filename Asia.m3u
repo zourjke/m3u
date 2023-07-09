@@ -14,65 +14,65 @@ http://huzou.f3322.net:84/tvb.php?id=8
 #EXTINF:-1,tvg-id="事件直播頻道2" tvg-name="事件直播頻道2" tvg-logo="https://epg.112114.xyz/logo/事件直播頻道2.png" group-title="TVB",事件直播頻道2
 http://huzou.f3322.net:84/tvb.php?id=10
 #EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" group-title="4GTV",龙华电影台
-http://huzou.f3322.net:84/4gtv.php?id=litv-longturn03
+https://huzou.eu.org/live/4gtv.php?id=litv-longturn03
 #EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.112114.xyz/logo/龙华日韩台.png" group-title="4GTV",龙华日韩台
-http://huzou.f3322.net:84/4gtv.php?id=litv-longturn11
+https://huzou.eu.org/live/4gtv.php?id=litv-longturn11
 #EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.112114.xyz/logo/靖天电影台.png" group-title="4GTV",靖天电影台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv061
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv061
 #EXTINF:-1,tvg-id="影迷数位电影" tvg-name="影迷数位电影" tvg-logo="https://epg.112114.xyz/logo/影迷数位电影.png" group-title="4GTV",影迷数位电影台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv011
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv011
 #EXTINF:-1,tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.112114.xyz/logo/爱尔达娱乐台.png" group-title="4GTV",爱尔达娱乐台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv070
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv070
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="4GTV",靖天日本台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv047
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv047
 #EXTINF:-1,tvg-id="i-Fun动漫台" tvg-name="i-Fun动漫台" tvg-logo="https://epg.112114.xyz/logo/IFUN动漫台.png" group-title="4GTV",i-Fun动漫台
-http://huzou.f3322.net:84/4gtv.php?id=litv-ftv15
+https://huzou.eu.org/live/4gtv.php?id=litv-ftv15
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="4GTV",公视戏剧
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv042
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv042
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" group-title="4GTV",民视第一台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv003
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv003
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="4GTV",民视
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv002
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv002
 #EXTINF:-1,tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://epg.112114.xyz/logo/大爱电视.png" group-title="4GTV",大爱电视
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live007
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live007
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4GTV",中视
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv040
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv040
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台湾",民视台湾台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv001
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv001
 #EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.112114.xyz/logo/民视综艺台.png" group-title="4GTV",民视综艺台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv004
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv004
 #EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="4GTV",ELTV生活英语台
-http://huzou.f3322.net:84/4gtv.php?id=litv-longturn20
+https://huzou.eu.org/live/4gtv.php?id=litv-longturn20
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="4GTV",MTV Live HD 音乐频道
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live025
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live025
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="4GTV",华视新闻
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv052
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv052
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="4GTV",民视新闻台
-http://huzou.f3322.net:84/4gtv.php?id=litv-ftv13
+https://huzou.eu.org/live/4gtv.php?id=litv-ftv13
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4GTV",中视新闻台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv074
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv074
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="4GTV",中天新闻台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv009
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv009
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="4GTV",寰宇新闻台
-http://huzou.f3322.net:84/4gtv.php?id=litv-longturn14
+https://huzou.eu.org/live/4gtv.php?id=litv-longturn14
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="4GTV",民视旅游台
-http://huzou.f3322.net:84/4gtv.php?id=litv-ftv07
+https://huzou.eu.org/live/4gtv.php?id=litv-ftv07
 #EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.112114.xyz/logo/VOA美国之音.png" group-title="4GTV",VOA美国之音
-http://huzou.f3322.net:84/4gtv.php?id=litv-ftv03
+https://huzou.eu.org/live/4gtv.php?id=litv-ftv03
 #EXTINF:-1,tvg-id="幸福空间居家台" tvg-name="幸福空间居家台" tvg-logo="https://epg.112114.xyz/logo/幸福空间居家台.png" group-title="4GTV",幸福空间居家台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live206
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live206
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="4GTV",Love Nature
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live208
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live208
 #EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="4GTV",History 历史频道
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live026
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live026
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="4GTV",CI 罪案侦查频道
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live027
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live027
 #EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.112114.xyz/logo/半岛国际新闻台.png" group-title="4GTV",半岛国际新闻台
-http://huzou.f3322.net:84/4gtv.php?id=litv-ftv10
+https://huzou.eu.org/live/4gtv.php?id=litv-ftv10
 #EXTINF:-1,tvg-id="视纳华仁纪实频道" tvg-name="视纳华仁纪实频道" tvg-logo="https://epg.112114.xyz/logo/视纳华仁纪实.png" group-title="4GTV",视纳华仁纪实频道
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-4gtv013
+https://huzou.eu.org/live/4gtv.php?id=4gtv-4gtv013
 #EXTINF:-1,tvg-id="CNBC Asia 财经台" tvg-name="CNBC Asia 财经台" tvg-logo="https://epg.112114.xyz/logo/CNBCASIA财经台.png" group-title="4GTV",CNBC Asia 财经台
-http://huzou.f3322.net:84/4gtv.php?id=4gtv-live130
+https://huzou.eu.org/live/4gtv.php?id=4gtv-live130
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="油管新闻",中天新闻
 http://139.180.210.242:8500/live.m3u8?c=1
 #EXTINF:-1,tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://epg.112114.xyz/logo/中天新闻2台.png" group-title="油管新闻",中天新闻2台
