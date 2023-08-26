@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+https://live.rjke.eu.org/migu.php?id=cctv1h
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+https://live.rjke.eu.org/migu.php?id=cctv2h
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+https://live.rjke.eu.org/migu.php?id=cctv3
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+https://live.rjke.eu.org/migu.php?id=cctv4h
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+https://live.rjke.eu.org/migu.php?id=cctv5h
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+https://live.rjke.eu.org/migu.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+https://live.rjke.eu.org/migu.php?id=cctv6h265
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+https://live.rjke.eu.org/migu.php?id=cctv7
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+https://live.rjke.eu.org/migu.php?id=cctv8h
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+https://live.rjke.eu.org/migu.php?id=cctv9
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+https://live.rjke.eu.org/migu.php?id=cctv10h
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
+https://live.rjke.eu.org/migu.php?id=cctv11h
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+https://live.rjke.eu.org/migu.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+https://live.rjke.eu.org/migu.php?id=cctv13h
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+https://live.rjke.eu.org/migu.php?id=cctv14h
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+https://live.rjke.eu.org/migu.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+https://live.rjke.eu.org/migu.php?id=cctv17
+#EXTINF:-1,tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://epg.112114.xyz/logo/CCTV发现之旅.png" group-title="央视",CCTV发现之旅
+https://live.rjke.eu.org/migu.php?id=fxzl
+#EXTINF:-1,tvg-id="CCTV中学生" tvg-name="CCTV中学生" tvg-logo="https://epg.112114.xyz/logo/CCTV发现之旅.png" group-title="央视",CCTV中学生
+https://live.rjke.eu.org/migu.php?id=zxs
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://live.rjke.eu.org/migu.php?id=jswsh
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
+https://live.rjke.eu.org/migu.php?id=gxws
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
+https://live.rjke.eu.org/migu.php?id=scwsh
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://live.rjke.eu.org/migu.php?id=hunwsh
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://live.rjke.eu.org/migu.php?id=zjws
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+https://live.rjke.eu.org/migu.php?id=dfwsh
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
+https://live.rjke.eu.org/migu.php?id=bjwsh
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
+https://live.rjke.eu.org/migu.php?id=tjws
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://live.rjke.eu.org/migu.php?id=lnwsh
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+https://live.rjke.eu.org/migu.php?id=ahwsh
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+https://live.rjke.eu.org/migu.php?id=hljwsh
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
+https://live.rjke.eu.org/migu.php?id=gdwsh
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://live.rjke.eu.org/migu.php?id=szws
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://live.rjke.eu.org/migu.php?id=hubwsh
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://live.rjke.eu.org/migu.php?id=jlws
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
+https://live.rjke.eu.org/migu.php?id=sdwsh
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
+https://live.rjke.eu.org/migu.php?id=jxws
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+https://live.rjke.eu.org/migu.php?id=hnws
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
+https://live.rjke.eu.org/migu.php?id=hbws
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+https://live.rjke.eu.org/migu.php?id=gsws
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
+https://live.rjke.eu.org/migu.php?id=cqws
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
+https://live.rjke.eu.org/migu.php?id=dnws
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
+https://live.rjke.eu.org/migu.php?id=ynws
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
+https://live.rjke.eu.org/migu.php?id=gzws
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+https://live.rjke.eu.org/migu.php?id=hinws
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://live.rjke.eu.org/migu.php?id=nmws
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://live.rjke.eu.org/migu.php?id=nxws
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",青海卫视
+https://live.rjke.eu.org/migu.php?id=qhws
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
+https://live.rjke.eu.org/migu.php?id=sxws
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
+https://live.rjke.eu.org/migu.php?id=sxiws
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+https://live.rjke.eu.org/migu.php?id=dwqws
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://live.rjke.eu.org/migu.php?id=xjws
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
+https://live.rjke.eu.org/migu.php?id=btws
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",上海第一财经
+https://live.rjke.eu.org/migu.php?id=dycj
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实
+https://live.rjke.eu.org/migu.php?id=shjs
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
+https://live.rjke.eu.org/migu.php?id=wxty
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上视新闻
+https://live.rjke.eu.org/migu.php?id=shxwzh
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
+https://live.rjke.eu.org/migu.php?id=shds
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视
+https://live.rjke.eu.org/migu.php?id=dfys
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语
+https://live.rjke.eu.org/migu.php?id=shics
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
+https://live.rjke.eu.org/migu.php?id=hhxd
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
+https://live.rjke.eu.org/migu.php?id=ly
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
+https://live.rjke.eu.org/migu.php?id=yxfy
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
+https://live.rjke.eu.org/migu.php?id=jbty
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="教育频道",魅力足球
+https://live.rjke.eu.org/migu.php?id=mlzq
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="教育频道",CGTN纪录
+https://live.rjke.eu.org/migu.php?id=cgtnjl
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="教育频道",CGTN法语
+https://live.rjke.eu.org/migu.php?id=cgtnf
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png" group-title="教育频道",CGTN西班牙语
+https://live.rjke.eu.org/migu.php?id=cgtne
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="教育频道",CGTN俄语
+https://live.rjke.eu.org/migu.php?id=cgtnr
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="教育频道",CETV2
+https://live.rjke.eu.org/migu.php?id=cetv2
+#EXTINF:-1,tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="教育频道",CETV3
+https://live.rjke.eu.org/migu.php?id=cetv3
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="教育频道",CETV4
+https://live.rjke.eu.org/migu.php?id=cetv4
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC",CHC家庭影院
+https://live.rjke.eu.org/migu.php?id=chcjtyy
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="CHC",CHC动作电影
+https://live.rjke.eu.org/migu.php?id=chcdzdy
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
+https://live.rjke.eu.org/migu.php?id=jjkt
+#EXTINF:-1,tvg-id="SDETV山东教育" tvg-name="SDETV山东教育" tvg-logo="https://epg.112114.xyz/logo/SDETV山东教育.png" group-title="其他",SDETV山东教育
+https://live.rjke.eu.org/migu.php?id=sdjy
+#EXTINF:-1,tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://epg.112114.xyz/logo/国学频道.png" group-title="其他",国学频道
+https://live.rjke.eu.org/migu.php?id=gxpd
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
+https://live.rjke.eu.org/migu.php?id=jyjs
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.112114.xyz/logo/北京纪实科教.png" group-title="其他",北京纪实科教
+https://live.rjke.eu.org/migu.php?id=bjjskj
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="其他",四海钓鱼
+https://live.rjke.eu.org/migu.php?id=shdy
+#EXTINF:-1,tvg-id="临洮电视台" tvg-name="临洮电视台" tvg-logo="https://epg.112114.xyz/logo/临洮电视台.png" group-title="地方频道",临洮电视台
+https://live.rjke.eu.org/migu.php?id=lttv
+#EXTINF:-1,tvg-id="陇西电视台" tvg-name="陇西电视台" tvg-logo="https://epg.112114.xyz/logo/陇西电视台.png" group-title="地方频道",陇西电视台
+https://live.rjke.eu.org/migu.php?id=lxtv
+#EXTINF:-1,tvg-id="岷县电视台" tvg-name="岷县电视台" tvg-logo="https://epg.112114.xyz/logo/岷县电视台.png" group-title="地方频道",岷县电视台
+https://live.rjke.eu.org/migu.php?id=minxtv
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="地方频道",江苏城市
+https://live.rjke.eu.org/migu.php?id=jscs
+#EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" group-title="地方频道",江苏综艺
+https://live.rjke.eu.org/migu.php?id=jszy
+#EXTINF:-1,tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="https://epg.112114.xyz/logo/江苏公共新闻.png" group-title="地方频道",江苏公共新闻
+https://live.rjke.eu.org/migu.php?id=jsgg
+#EXTINF:-1,tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png" group-title="地方频道",江苏教育
+https://live.rjke.eu.org/migu.php?id=jsjy
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png" group-title="地方频道",江苏国际
+https://live.rjke.eu.org/migu.php?id=jsgj
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="地方频道",江苏影视
+https://live.rjke.eu.org/migu.php?id=jsys
+#EXTINF:-1,tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲.png" group-title="地方频道",江苏体育休闲
+https://live.rjke.eu.org/migu.php?id=zxzh
+#EXTINF:-1,tvg-id="江苏学习" tvg-name="江苏学习" tvg-logo="https://epg.112114.xyz/logo/江苏学习.png" group-title="地方频道",江苏学习
+https://live.rjke.eu.org/migu.php?id=jsxx
+#EXTINF:-1,tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://epg.112114.xyz/logo/好享购物.png" group-title="地方频道",好享购物
+https://live.rjke.eu.org/migu.php?id=hxgw
+#EXTINF:-1,tvg-id="江苏靓妆" tvg-name="江苏靓妆" tvg-logo="https://epg.112114.xyz/logo/江苏靓妆.png" group-title="地方频道",江苏靓妆
+https://live.rjke.eu.org/migu.php?id=jslz
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="地方频道",优漫卡通
+https://live.rjke.eu.org/migu.php?id=ymkt
+#EXTINF:-1,tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://epg.112114.xyz/logo/无锡新闻综合.png" group-title="地方频道",无锡新闻综合
+https://live.rjke.eu.org/migu.php?id=wxxwzh
+#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://epg.112114.xyz/logo/苏州新闻综合.png" group-title="地方频道",苏州新闻综合
+https://live.rjke.eu.org/migu.php?id=szxwzh
+#EXTINF:-1,tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/泰州新闻综合.png" group-title="地方频道",泰州新闻综合
+https://live.rjke.eu.org/migu.php?id=tz1
+#EXTINF:-1,tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://epg.112114.xyz/logo/淮安新闻综合.png" group-title="地方频道",淮安新闻综合
+https://live.rjke.eu.org/migu.php?id=haxwzh
+#EXTINF:-1,tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://epg.112114.xyz/logo/镇江新闻综合.png" group-title="地方频道",镇江新闻综合
+https://live.rjke.eu.org/migu.php?id=zjxwzh
+#EXTINF:-1,tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://epg.112114.xyz/logo/徐州新闻综合.png" group-title="地方频道",徐州新闻综合
+https://live.rjke.eu.org/migu.php?id=xzxwzh
+#EXTINF:-1,tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://epg.112114.xyz/logo/连云港新闻综合.png" group-title="地方频道",连云港新闻综合
+https://live.rjke.eu.org/migu.php?id=lygxwzh
+#EXTINF:-1 group-title="咪咕电影",周润发影院
+https://live.rjke.eu.org/migu.php?id=zrfyy
+#EXTINF:-1 group-title="咪咕电影",周星驰影院
+https://live.rjke.eu.org/migu.php?id=zxcyy
+#EXTINF:-1 group-title="咪咕电影",郭富城影院
+https://live.rjke.eu.org/migu.php?id=gfcyy
+#EXTINF:-1 group-title="咪咕电影",梁朝伟影院
+https://live.rjke.eu.org/migu.php?id=lcwyy
+#EXTINF:-1 group-title="咪咕电影",刘德华影院
+https://live.rjke.eu.org/migu.php?id=ldhyy
+#EXTINF:-1 group-title="咪咕电影",张国荣影院
+https://live.rjke.eu.org/migu.php?id=zgryy
+#EXTINF:-1 group-title="咪咕电影",高分影院
+https://live.rjke.eu.org/migu.php?id=gfyy
+#EXTINF:-1 group-title="咪咕电影",国际剧场
+https://live.rjke.eu.org/migu.php?id=gjjc
+#EXTINF:-1 group-title="咪咕电影",古龙作品集
+https://live.rjke.eu.org/migu.php?id=glzpj
+#EXTINF:-1 group-title="咪咕电影",成龙作品集
+https://live.rjke.eu.org/migu.php?id=clzpj
+#EXTINF:-1 group-title="咪咕电影",吴京作品集
+https://live.rjke.eu.org/migu.php?id=wjzpj
+#EXTINF:-1 group-title="咪咕电影",僵尸剧场
+https://live.rjke.eu.org/migu.php?id=jsjc
+#EXTINF:-1 group-title="咪咕电影",金庸频道
+https://live.rjke.eu.org/migu.php?id=jypd
+#EXTINF:-1 group-title="咪咕电影",高能烧脑时刻
+https://live.rjke.eu.org/migu.php?id=gnslsk
+#EXTINF:-1 group-title="咪咕电影",高清大片
+https://live.rjke.eu.org/migu.php?id=gqdp
+#EXTINF:-1 group-title="咪咕电影",过瘾爽片
+https://live.rjke.eu.org/migu.php?id=gysp
+#EXTINF:-1 group-title="咪咕电影",解压影院
+https://live.rjke.eu.org/migu.php?id=jyyy
+#EXTINF:-1 group-title="咪咕电影",开心麻花剧场
+https://live.rjke.eu.org/migu.php?id=kxmhjc
+#EXTINF:-1 group-title="咪咕电影",林正英剧场
+https://live.rjke.eu.org/migu.php?id=lzyjc
+#EXTINF:-1 group-title="咪咕电影",爱国影展
+https://live.rjke.eu.org/migu.php?id=agyz
+#EXTINF:-1 group-title="咪咕电影",爆款动画电影
+https://live.rjke.eu.org/migu.php?id=bkdhdy
+#EXTINF:-1 group-title="咪咕电影",纯爱文艺影院
+https://live.rjke.eu.org/migu.php?id=cawyyy
+#EXTINF:-1 group-title="咪咕电影",电竞风云
+https://live.rjke.eu.org/migu.php?id=djfy
+#EXTINF:-1 group-title="咪咕电影",掼蛋精英赛
+https://live.rjke.eu.org/migu.php?id=gdjys
+#EXTINF:-1 group-title="咪咕电影",红色谍战剧场
+https://live.rjke.eu.org/migu.php?id=hsdzjc
+#EXTINF:-1 group-title="咪咕电影",红色轮播台
+https://live.rjke.eu.org/migu.php?id=hslbt
+#EXTINF:-1 group-title="咪咕电影",怀旧老片
+https://live.rjke.eu.org/migu.php?id=hjlp
+#EXTINF:-1 group-title="咪咕电影",环游世界
+https://live.rjke.eu.org/migu.php?id=hjlphysj
+#EXTINF:-1 group-title="咪咕电影",经典动画大集合
+https://live.rjke.eu.org/migu.php?id=jddh
+#EXTINF:-1 group-title="咪咕电影",经典深圳旁边电影
+https://live.rjke.eu.org/migu.php?id=jdxgdy
+#EXTINF:-1 group-title="咪咕电影",军旅剧场
+https://live.rjke.eu.org/migu.php?id=jljc
+#EXTINF:-1 group-title="咪咕电影",军事大片
+https://live.rjke.eu.org/migu.php?id=jsdp
+#EXTINF:-1 group-title="咪咕电影",咪咕24小时体育
+https://live.rjke.eu.org/migu.php?id=mg24hty
+#EXTINF:-1 group-title="咪咕电影",美国电影时刻
+https://live.rjke.eu.org/migu.php?id=mgdysk
+#EXTINF:-1 group-title="咪咕电影",MiguC Live
+https://live.rjke.eu.org/migu.php?id=miguc
+#EXTINF:-1 group-title="咪咕电影",梅西经典回顾
+https://live.rjke.eu.org/migu.php?id=mxjdhg
+#EXTINF:-1 group-title="咪咕电影",NBA经典
+https://live.rjke.eu.org/migu.php?id=nbajd
+#EXTINF:-1 group-title="咪咕电影",欧洲足球风云
+https://live.rjke.eu.org/migu.php?id=ozzqfy
+#EXTINF:-1 group-title="咪咕电影",全民热练24小时轮播台*
+https://live.rjke.eu.org/migu.php?id=qmrl
+#EXTINF:-1 group-title="咪咕电影",热剧联播
+https://live.rjke.eu.org/migu.php?id=rjlb
+#EXTINF:-1 group-title="咪咕电影",试胆大会
+https://live.rjke.eu.org/migu.php?id=sddh
+#EXTINF:-1 group-title="咪咕电影",少林真功夫
+https://live.rjke.eu.org/migu.php?id=slzgf
+#EXTINF:-1 group-title="咪咕电影",赛事最经典
+https://live.rjke.eu.org/migu.php?id=sszjd
+#EXTINF:-1 group-title="咪咕电影",体坛名栏汇
+https://live.rjke.eu.org/migu.php?id=ttmlh
+#EXTINF:-1 group-title="咪咕电影",泰想看电影
+https://live.rjke.eu.org/migu.php?id=txhdy
+#EXTINF:-1 group-title="咪咕电影",体育影视佳作
+https://live.rjke.eu.org/migu.php?id=tyys
+#EXTINF:-1 group-title="咪咕电影",五大联赛经典
+https://live.rjke.eu.org/migu.php?id=wdlsjd
+#EXTINF:-1 group-title="咪咕电影",王牌对王牌
+https://live.rjke.eu.org/migu.php?id=wpdwp
+#EXTINF:-1 group-title="咪咕电影",温情催泪影院
+https://live.rjke.eu.org/migu.php?id=wqclyy
+#EXTINF:-1 group-title="咪咕电影",乡村振兴
+https://live.rjke.eu.org/migu.php?id=xczx
+#EXTINF:-1 group-title="咪咕电影",喜剧联盟
+https://live.rjke.eu.org/migu.php?id=xjlm
+#EXTINF:-1 group-title="咪咕电影",新片放映厅
+https://live.rjke.eu.org/migu.php?id=xpfyt
+#EXTINF:-1 group-title="咪咕电影",西域风情
+https://live.rjke.eu.org/migu.php?id=xyfq
+#EXTINF:-1 group-title="咪咕电影",印度神片
+https://live.rjke.eu.org/migu.php?id=ydsp
+#EXTINF:-1 group-title="咪咕电影",运动员演戏
+https://live.rjke.eu.org/migu.php?id=ydyxx
+#EXTINF:-1 group-title="咪咕电影",粤听粤爱
+https://live.rjke.eu.org/migu.php?id=ytya
+#EXTINF:-1 group-title="咪咕电影",影像俄罗斯
+https://live.rjke.eu.org/migu.php?id=yxels
+#EXTINF:-1 group-title="咪咕电影",致敬英雄
+https://live.rjke.eu.org/migu.php?id=zjyx
+#EXTINF:-1 group-title="咪咕电影",最强综艺趴
+https://live.rjke.eu.org/migu.php?id=zqzyp
+#EXTINF:-1 group-title="咪咕电影",综艺现场
+https://live.rjke.eu.org/migu.php?id=zyxc
