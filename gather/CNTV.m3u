@@ -1506,3 +1506,266 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="陕西移动",中视购物
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="重庆联通",CCTV-1高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="重庆联通",CCTV-2高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="重庆联通",CCTV-3高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="重庆联通",CCTV-4高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="重庆联通",CCTV-5高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="重庆联通",CCTV5+高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="重庆联通",CCTV-6高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="重庆联通",CCTV-7高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="重庆联通",CCTV-8高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="重庆联通",CCTV-9高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="重庆联通",CCTV-10高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="重庆联通",CCTV-11高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="重庆联通",CCTV-12高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="重庆联通",CCTV-13高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="重庆联通",CCTV-14少儿高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="重庆联通",CCTV-15高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="重庆联通",CCTV-17高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="重庆联通",重庆卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆新闻超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆影视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆社会与法超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆时尚生活超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆娱乐超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆新农村超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆少儿超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",重庆科教超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="重庆联通",重庆汽摩超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV移动超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV移动
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000249?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",时尚购物超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000366?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="重庆联通",湖南卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="重庆联通",浙江卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="重庆联通",江苏卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="重庆联通",东方卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="重庆联通",安徽卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="重庆联通",贵州卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="重庆联通",天津卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="重庆联通",辽宁卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="重庆联通",河北卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="重庆联通",北京卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="重庆联通",广东卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="重庆联通",四川卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="重庆联通",江西卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="重庆联通",湖北卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="重庆联通",海南卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000385?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="重庆联通",东南卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="重庆联通",深圳卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="重庆联通",山东卫视超高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="重庆联通",吉林卫视高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="重庆联通",CHC高清电影
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",茶高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000395?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",纪实高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000275?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="重庆联通",CETV1高清
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="重庆联通",山西卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000179?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="重庆联通",multiCastUrl#EXTINF:-1 ,:
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="重庆联通",陕西卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000189?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="重庆联通",内蒙古卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="重庆联通",云南卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="重庆联通",河南卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="重庆联通",广西卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="重庆联通",宁夏卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000194?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="重庆联通",甘肃卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",少儿动画
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000158?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="重庆联通",卡酷动画
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000159?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="重庆联通",金鹰卡通
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000162?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",魅力时尚
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000157?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="重庆联通",青海卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="重庆联通",新疆卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="重庆联通",西藏卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000178?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV3+
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000150?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="重庆联通",IPTV5+
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV6+
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000148?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV8+
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000147?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="重庆联通",CGTN
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000344?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000276?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="重庆联通",财富天下
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000263?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV谍战剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000154?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV相声小品
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000151?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV野外
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000153?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",IPTV法治
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000152?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",热播剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000155?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",经典电影
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000156?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",城市剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000336?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",军旅剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000335?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",古装剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000334?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",音乐现场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000333?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",地理
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000337?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",美妆
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000332?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",美人
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000331?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",精选
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000330?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",解密
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000329?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",军事
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000328?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="重庆联通",国学
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000327?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",戏曲
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000326?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",早教
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000325?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",动画
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000324?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",好学生
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000323?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",鉴赏
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000322?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",墨宝
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000321?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",光影
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000320?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",台球
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000319?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",爱生活
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000318?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",武术
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000317?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",高网
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000316?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",足球
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000315?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",武侠剧场
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000314?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",喜剧影院
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000313?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",动作影院
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000312?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",家庭影院
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000311?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",星影
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000310?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",山东教育
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000339?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="重庆联通",CETV4
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000362?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV新闻
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000258?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV影视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000257?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV社会与法
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000255?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV时尚生活
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000252?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV娱乐
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000254?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV新农村
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000253?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV少儿
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000245?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",CQTV科教
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000256?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="重庆联通",CQTV汽摩
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000364?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="重庆联通",黑龙江卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000198?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",导视频道
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000345?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",家有购物
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000383?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="重庆联通",快乐垂钓
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="重庆联通",嘉佳卡通
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000386?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",爱上4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="重庆联通",CHC家庭影院
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="重庆联通",CHC动作电影
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆联通",精彩影视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000396?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="重庆联通",求索纪录
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=
