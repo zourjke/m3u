@@ -1,321 +1,321 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
-http://192.168.31.1:5678/gudou.php?id=4005
+https://live.rjke.eu.org/gudou.php?id=4005
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
-http://192.168.31.1:5678/gudou.php?id=4010
+https://live.rjke.eu.org/gudou.php?id=4010
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺4K
-http://192.168.31.1:5678/gudou.php?id=GDZYHD4K_38000
+https://live.rjke.eu.org/gudou.php?id=GDZYHD4K_38000
 #EXTINF:-1,tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
-http://192.168.31.1:5678/gudou.php?id=GHDdaoshi_7500
+https://live.rjke.eu.org/gudou.php?id=GHDdaoshi_7500
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://192.168.31.1:5678/gudou.php?id=1350_4500
+https://live.rjke.eu.org/gudou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://192.168.31.1:5678/gudou.php?id=1351_4500
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳视澳门
-http://192.168.31.1:5678/gudou.php?id=1352_4500
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://192.168.31.1:5678/gudou.php?id=fhzw_1500
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视..png" group-title="港澳台",星空卫视
-http://192.168.31.1:5678/gudou.php?id=xingkong_1500
-#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
-http://192.168.31.1:5678/gudou.php?id=aoya_1500
+https://live.rjke.eu.org/gudou.php?id=1351_4500
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="其他",澳视澳门
+https://live.rjke.eu.org/gudou.php?id=1352_4500
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文.576
+https://live.rjke.eu.org/gudou.php?id=fhzw_1500
+#EXTINF:-1,tvg-id="星空卫视.576" tvg-name="星空卫视.576" tvg-logo="https://epg.112114.xyz/logo/星空卫视..png" group-title="卫视",星空卫视.576
+https://live.rjke.eu.org/gudou.php?id=xingkong_1500
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="卫视",澳亚卫视.576
+https://live.rjke.eu.org/gudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://192.168.31.1:5678/gudou.php?id=1402_4500
+https://live.rjke.eu.org/gudou.php?id=1402_4500
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-http://192.168.31.1:5678/gudou.php?id=CCTV2HD_7000
+https://live.rjke.eu.org/gudou.php?id=CCTV2HD_7000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-http://192.168.31.1:5678/gudou.php?id=1603
+https://live.rjke.eu.org/gudou.php?id=1603
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://192.168.31.1:5678/gudou.php?id=1604
+https://live.rjke.eu.org/gudou.php?id=1604
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-http://192.168.31.1:5678/gudou.php?id=1605
+https://live.rjke.eu.org/gudou.php?id=1605
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
-http://192.168.31.1:5678/gudou.php?id=1403
+https://live.rjke.eu.org/gudou.php?id=1403
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-http://192.168.31.1:5678/gudou.php?id=1606
+https://live.rjke.eu.org/gudou.php?id=1606
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-http://192.168.31.1:5678/gudou.php?id=1607
+https://live.rjke.eu.org/gudou.php?id=1607
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-http://192.168.31.1:5678/gudou.php?id=1608
+https://live.rjke.eu.org/gudou.php?id=1608
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
-http://192.168.31.1:5678/gudou.php?id=CCTV9HD_7000
+https://live.rjke.eu.org/gudou.php?id=CCTV9HD_7000
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-http://192.168.31.1:5678/gudou.php?id=1610
+https://live.rjke.eu.org/gudou.php?id=1610
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-http://192.168.31.1:5678/gudou.php?id=CCTV-11HD_7500
+https://live.rjke.eu.org/gudou.php?id=CCTV-11HD_7500
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://192.168.31.1:5678/gudou.php?id=CCTV12HD_7000
+https://live.rjke.eu.org/gudou.php?id=CCTV12HD_7000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-http://192.168.31.1:5678/gudou.php?id=1613
+https://live.rjke.eu.org/gudou.php?id=1613
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
-http://192.168.31.1:5678/gudou.php?id=CCTV14HD_7000
+https://live.rjke.eu.org/gudou.php?id=CCTV14HD_7000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
-http://192.168.31.1:5678/gudou.php?id=CCTV-15HD_7500
+https://live.rjke.eu.org/gudou.php?id=CCTV-15HD_7500
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-http://192.168.31.1:5678/gudou.php?id=1617_4500
+https://live.rjke.eu.org/gudou.php?id=1617_4500
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
-http://192.168.31.1:5678/gudou.php?id=CCTV17HD
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN..png" group-title="央视",CGTN
-http://192.168.31.1:5678/gudou.php?id=CCTV15news_1500
+https://live.rjke.eu.org/gudou.php?id=CCTV17HD
+#EXTINF:-1,tvg-id="CGTN.576" tvg-name="CGTN.576" tvg-logo="https://epg.112114.xyz/logo/CGTN..png" group-title="央视",CGTN.576
+https://live.rjke.eu.org/gudou.php?id=CCTV15news_1500
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://192.168.31.1:5678/gudou.php?id=1401
+https://live.rjke.eu.org/gudou.php?id=1401
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://192.168.31.1:5678/gudou.php?id=shenzhenHD_7000
+https://live.rjke.eu.org/gudou.php?id=shenzhenHD_7000
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-http://192.168.31.1:5678/gudou.php?id=dongfangHD_7000
+https://live.rjke.eu.org/gudou.php?id=dongfangHD_7000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://192.168.31.1:5678/gudou.php?id=beijingHD_7000
+https://live.rjke.eu.org/gudou.php?id=beijingHD_7000
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://192.168.31.1:5678/gudou.php?id=hunanHD_7000
+https://live.rjke.eu.org/gudou.php?id=hunanHD_7000
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-http://192.168.31.1:5678/gudou.php?id=jiangxiHD_7000
+https://live.rjke.eu.org/gudou.php?id=jiangxiHD_7000
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-http://192.168.31.1:5678/gudou.php?id=sichuanHD_7000
+https://live.rjke.eu.org/gudou.php?id=sichuanHD_7000
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://192.168.31.1:5678/gudou.php?id=jiangsuHD_7000
+https://live.rjke.eu.org/gudou.php?id=jiangsuHD_7000
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://192.168.31.1:5678/gudou.php?id=zhejiangHD_7000
+https://live.rjke.eu.org/gudou.php?id=zhejiangHD_7000
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-http://192.168.31.1:5678/gudou.php?id=1415_4500
+https://live.rjke.eu.org/gudou.php?id=1415_4500
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
-http://192.168.31.1:5678/gudou.php?id=1426_4500
+https://live.rjke.eu.org/gudou.php?id=1426_4500
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://192.168.31.1:5678/gudou.php?id=chongqingHD_7000
+https://live.rjke.eu.org/gudou.php?id=chongqingHD_7000
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://192.168.31.1:5678/gudou.php?id=guizhouHD_7000
+https://live.rjke.eu.org/gudou.php?id=guizhouHD_7000
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://192.168.31.1:5678/gudou.php?id=liaoningHD_7000
+https://live.rjke.eu.org/gudou.php?id=liaoningHD_7000
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://192.168.31.1:5678/gudou.php?id=hubeiHD_7000
+https://live.rjke.eu.org/gudou.php?id=hubeiHD_7000
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://192.168.31.1:5678/gudou.php?id=anhuiHD_7000
+https://live.rjke.eu.org/gudou.php?id=anhuiHD_7000
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://192.168.31.1:5678/gudou.php?id=heilongjiangHD_7000
+https://live.rjke.eu.org/gudou.php?id=heilongjiangHD_7000
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://192.168.31.1:5678/gudou.php?id=jilinHD
+https://live.rjke.eu.org/gudou.php?id=jilinHD
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://192.168.31.1:5678/gudou.php?id=1451_4500
+https://live.rjke.eu.org/gudou.php?id=1451_4500
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://192.168.31.1:5678/gudou.php?id=1453
+https://live.rjke.eu.org/gudou.php?id=1453
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://192.168.31.1:5678/gudou.php?id=1452_4500
+https://live.rjke.eu.org/gudou.php?id=1452_4500
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://192.168.31.1:5678/gudou.php?id=dongnanweishiHD
+https://live.rjke.eu.org/gudou.php?id=dongnanweishiHD
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://192.168.31.1:5678/gudou.php?id=1416_4500
+https://live.rjke.eu.org/gudou.php?id=1416_4500
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://192.168.31.1:5678/gudou.php?id=henangaoqing_3000
+https://live.rjke.eu.org/gudou.php?id=henangaoqing_3000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://192.168.31.1:5678/gudou.php?id=guangxi
+https://live.rjke.eu.org/gudou.php?id=guangxi
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
-http://192.168.31.1:5678/gudou.php?id=1937
+https://live.rjke.eu.org/gudou.php?id=1937
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
-http://192.168.31.1:5678/gudou.php?id=1938
+https://live.rjke.eu.org/gudou.php?id=1938
 #EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
-http://192.168.31.1:5678/gudou.php?id=1939
+https://live.rjke.eu.org/gudou.php?id=1939
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
-http://192.168.31.1:5678/gudou.php?id=1940
+https://live.rjke.eu.org/gudou.php?id=1940
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
-http://192.168.31.1:5678/gudou.php?id=1941
+https://live.rjke.eu.org/gudou.php?id=1941
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-http://192.168.31.1:5678/gudou.php?id=CHCHD_7000
+https://live.rjke.eu.org/gudou.php?id=CHCHD_7000
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
-http://192.168.31.1:5678/gudou.php?id=dushijuchangHD_7000
+https://live.rjke.eu.org/gudou.php?id=dushijuchangHD_7000
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
-http://192.168.31.1:5678/gudou.php?id=quanjishiHD_7000
+https://live.rjke.eu.org/gudou.php?id=quanjishiHD_7000
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
-http://192.168.31.1:5678/gudou.php?id=QSJLHD_7000
+https://live.rjke.eu.org/gudou.php?id=QSJLHD_7000
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="其他",求索科学
-http://192.168.31.1:5678/gudou.php?id=qiusuokexueHD_7000
+https://live.rjke.eu.org/gudou.php?id=qiusuokexueHD_7000
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
-http://192.168.31.1:5678/gudou.php?id=QSDWHD_7000
+https://live.rjke.eu.org/gudou.php?id=QSDWHD_7000
 #EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
-http://192.168.31.1:5678/gudou.php?id=1612
+https://live.rjke.eu.org/gudou.php?id=1612
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
-http://192.168.31.1:5678/gudou.php?id=meiliyinyueHD_7000
+https://live.rjke.eu.org/gudou.php?id=meiliyinyueHD_7000
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="其他",劲爆体育
-http://192.168.31.1:5678/gudou.php?id=jinbaotiyuHD_7000
+https://live.rjke.eu.org/gudou.php?id=jinbaotiyuHD_7000
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
-http://192.168.31.1:5678/gudou.php?id=xinshijuegaoqing
+https://live.rjke.eu.org/gudou.php?id=xinshijuegaoqing
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
-http://192.168.31.1:5678/gudou.php?id=youxifengyunHD
+https://live.rjke.eu.org/gudou.php?id=youxifengyunHD
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
-http://192.168.31.1:5678/gudou.php?id=gdzhujiangHD_7500
+https://live.rjke.eu.org/gudou.php?id=gdzhujiangHD_7500
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
-http://192.168.31.1:5678/gudou.php?id=1413
+https://live.rjke.eu.org/gudou.php?id=1413
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://192.168.31.1:5678/gudou.php?id=1454
+https://live.rjke.eu.org/gudou.php?id=1454
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
-http://192.168.31.1:5678/gudou.php?id=1455
+https://live.rjke.eu.org/gudou.php?id=1455
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
-http://192.168.31.1:5678/gudou.php?id=GDjingjikejiaoHD_7000
+https://live.rjke.eu.org/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://192.168.31.1:5678/gudou.php?id=1456
+https://live.rjke.eu.org/gudou.php?id=1456
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://192.168.31.1:5678/gudou.php?id=1458
+https://live.rjke.eu.org/gudou.php?id=1458
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://192.168.31.1:5678/gudou.php?id=1459
+https://live.rjke.eu.org/gudou.php?id=1459
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
-http://192.168.31.1:5678/gudou.php?id=1457
+https://live.rjke.eu.org/gudou.php?id=1457
 #EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="其他",岭南戏曲
-http://192.168.31.1:5678/gudou.php?id=1460
+https://live.rjke.eu.org/gudou.php?id=1460
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合
-http://192.168.31.1:5678/gudou.php?id=gzhounewsHD
+https://live.rjke.eu.org/gudou.php?id=gzhounewsHD
 #EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="其他",广州新闻
-http://192.168.31.1:5678/gudou.php?id=gzhouzongheHD
+https://live.rjke.eu.org/gudou.php?id=gzhouzongheHD
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="其他",广州影视
-http://192.168.31.1:5678/gudou.php?id=gzcompetitiongaoqing
+https://live.rjke.eu.org/gudou.php?id=gzcompetitiongaoqing
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="其他",广州竞赛
-http://192.168.31.1:5678/gudou.php?id=gzfilmsgaoqing
-#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="其他",广州法治
-http://192.168.31.1:5678/gudou.php?id=gzeconomic_1500
+https://live.rjke.eu.org/gudou.php?id=gzfilmsgaoqing
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="其他",广州法治.576
+https://live.rjke.eu.org/gudou.php?id=gzeconomic_1500
 #EXTINF:-1,tvg-id="增城台" tvg-name="增城台" tvg-logo="https://epg.112114.xyz/logo/增城台.png" group-title="其他",增城台
-http://192.168.31.1:5678/gudou.php?id=2079
+https://live.rjke.eu.org/gudou.php?id=2079
 #EXTINF:-1,tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" group-title="其他",东莞新闻综合
-http://192.168.31.1:5678/gudou.php?id=2121
+https://live.rjke.eu.org/gudou.php?id=2121
 #EXTINF:-1,tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="其他",东莞生活资讯
-http://192.168.31.1:5678/gudou.php?id=2122
+https://live.rjke.eu.org/gudou.php?id=2122
 #EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" group-title="其他",佛山综合
-http://192.168.31.1:5678/gudou.php?id=foshanzongheHD_4500
+https://live.rjke.eu.org/gudou.php?id=foshanzongheHD_4500
 #EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png" group-title="其他",佛山公共
-http://192.168.31.1:5678/gudou.php?id=foshangonggongHD_4500
+https://live.rjke.eu.org/gudou.php?id=foshangonggongHD_4500
 #EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png" group-title="其他",佛山影视
-http://192.168.31.1:5678/gudou.php?id=foshanyingshiHD_4500
+https://live.rjke.eu.org/gudou.php?id=foshanyingshiHD_4500
 #EXTINF:-1,tvg-id="南海综合" tvg-name="南海综合" tvg-logo="https://epg.112114.xyz/logo/南海综合.png" group-title="其他",南海综合
-http://192.168.31.1:5678/gudou.php?id=nanhaiHD_4500
+https://live.rjke.eu.org/gudou.php?id=nanhaiHD_4500
 #EXTINF:-1,tvg-id="顺德综合" tvg-name="顺德综合" tvg-logo="https://epg.112114.xyz/logo/顺德综合.png" group-title="其他",顺德综合
-http://192.168.31.1:5678/gudou.php?id=shundeHD_4500
+https://live.rjke.eu.org/gudou.php?id=shundeHD_4500
 #EXTINF:-1,tvg-id="珠海1" tvg-name="珠海1" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="其他",珠海1
-http://192.168.31.1:5678/gudou.php?id=zhuhaiHD1_4500
+https://live.rjke.eu.org/gudou.php?id=zhuhaiHD1_4500
 #EXTINF:-1,tvg-id="珠海2" tvg-name="珠海2" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="其他",珠海2
-http://192.168.31.1:5678/gudou.php?id=zhuhaiHD2_4500
+https://live.rjke.eu.org/gudou.php?id=zhuhaiHD2_4500
 #EXTINF:-1,tvg-id="斗门融媒" tvg-name="斗门融媒" tvg-logo="https://epg.112114.xyz/logo/斗门融媒.png" group-title="其他",斗门融媒
-http://192.168.31.1:5678/gudou.php?id=2207
+https://live.rjke.eu.org/gudou.php?id=2207
 #EXTINF:-1,tvg-id="惠州1" tvg-name="惠州1" tvg-logo="https://epg.112114.xyz/logo/惠州1.png" group-title="其他",惠州1
-http://192.168.31.1:5678/gudou.php?id=2314
+https://live.rjke.eu.org/gudou.php?id=2314
 #EXTINF:-1,tvg-id="惠州2" tvg-name="惠州2" tvg-logo="https://epg.112114.xyz/logo/惠州2.png" group-title="其他",惠州2
-http://192.168.31.1:5678/gudou.php?id=2316
+https://live.rjke.eu.org/gudou.php?id=2316
 #EXTINF:-1,tvg-id="博罗综合" tvg-name="博罗综合" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png" group-title="其他",博罗综合
-http://192.168.31.1:5678/gudou.php?id=2305
+https://live.rjke.eu.org/gudou.php?id=2305
 #EXTINF:-1,tvg-id="惠东综合" tvg-name="惠东综合" tvg-logo="https://epg.112114.xyz/logo/惠东综合.png" group-title="其他",惠东综合
-http://192.168.31.1:5678/gudou.php?id=huidongHD
-#EXTINF:-1,tvg-id="惠阳台" tvg-name="惠阳台" tvg-logo="https://epg.112114.xyz/logo/惠阳台..png" group-title="其他",惠阳台
-http://192.168.31.1:5678/gudou.php?id=huiyangtai
+https://live.rjke.eu.org/gudou.php?id=huidongHD
+#EXTINF:-1,tvg-id="惠阳台.576" tvg-name="惠阳台.576" tvg-logo="https://epg.112114.xyz/logo/惠阳台..png" group-title="其他",惠阳台.576
+https://live.rjke.eu.org/gudou.php?id=huiyangtai
 #EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="其他",潮州综合
-http://192.168.31.1:5678/gudou.php?id=3131
+https://live.rjke.eu.org/gudou.php?id=3131
 #EXTINF:-1,tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="其他",潮州民生
-http://192.168.31.1:5678/gudou.php?id=3132
+https://live.rjke.eu.org/gudou.php?id=3132
 #EXTINF:-1,tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://epg.112114.xyz/logo/潮安综合.png" group-title="其他",潮安综合
-http://192.168.31.1:5678/gudou.php?id=chaoanzongheHD
+https://live.rjke.eu.org/gudou.php?id=chaoanzongheHD
 #EXTINF:-1,tvg-id="饶平台" tvg-name="饶平台" tvg-logo="https://epg.112114.xyz/logo/饶平台.png" group-title="其他",饶平台
-http://192.168.31.1:5678/gudou.php?id=raopingtaiHD
+https://live.rjke.eu.org/gudou.php?id=raopingtaiHD
 #EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="其他",汕头综合
-http://192.168.31.1:5678/gudou.php?id=shantouyitaogaoqing_4500
+https://live.rjke.eu.org/gudou.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="其他",汕头经济生活
-http://192.168.31.1:5678/gudou.php?id=shantouertaogaoqing_4500
+https://live.rjke.eu.org/gudou.php?id=shantouertaogaoqing_4500
 #EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="其他",汕头文旅体育
-http://192.168.31.1:5678/gudou.php?id=2508_4500
+https://live.rjke.eu.org/gudou.php?id=2508_4500
 #EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="其他",揭阳综合
-http://192.168.31.1:5678/gudou.php?id=jieyangzongheHD
+https://live.rjke.eu.org/gudou.php?id=jieyangzongheHD
 #EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" group-title="其他",揭阳生活
-http://192.168.31.1:5678/gudou.php?id=jieyanggonggongHD
-#EXTINF:-1,tvg-id="揭东综合" tvg-name="揭东综合" tvg-logo="https://epg.112114.xyz/logo/揭东综合..png" group-title="其他",揭东综合
-http://192.168.31.1:5678/gudou.php?id=jiedongzonghe
+https://live.rjke.eu.org/gudou.php?id=jieyanggonggongHD
+#EXTINF:-1,tvg-id="揭东综合.576" tvg-name="揭东综合.576" tvg-logo="https://epg.112114.xyz/logo/揭东综合..png" group-title="其他",揭东综合.576
+https://live.rjke.eu.org/gudou.php?id=jiedongzonghe
 #EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="其他",中山综合
-http://192.168.31.1:5678/gudou.php?id=3665
+https://live.rjke.eu.org/gudou.php?id=3665
 #EXTINF:-1,tvg-id="中山香山文化" tvg-name="中山香山文化" tvg-logo="https://epg.112114.xyz/logo/中山香山文化.png" group-title="其他",中山香山文化
-http://192.168.31.1:5678/gudou.php?id=3663
+https://live.rjke.eu.org/gudou.php?id=3663
 #EXTINF:-1,tvg-id="中山教育" tvg-name="中山教育" tvg-logo="https://epg.112114.xyz/logo/中山教育.png" group-title="其他",中山教育
-http://192.168.31.1:5678/gudou.php?id=3664
+https://live.rjke.eu.org/gudou.php?id=3664
 #EXTINF:-1,tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="其他",江门综合
-http://192.168.31.1:5678/gudou.php?id=jiangmenzongheHD
-#EXTINF:-1,tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活..png" group-title="其他",江门侨乡生活
-http://192.168.31.1:5678/gudou.php?id=jiangmenyitao_1500
+https://live.rjke.eu.org/gudou.php?id=jiangmenzongheHD
+#EXTINF:-1,tvg-id="江门侨乡生活.576" tvg-name="江门侨乡生活.576" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活..png" group-title="其他",江门侨乡生活.576
+https://live.rjke.eu.org/gudou.php?id=jiangmenyitao_1500
 #EXTINF:-1,tvg-id="鹤山综合" tvg-name="鹤山综合" tvg-logo="https://epg.112114.xyz/logo/鹤山综合.png" group-title="其他",鹤山综合
-http://192.168.31.1:5678/gudou.php?id=3709
-#EXTINF:-1,tvg-id="新会综合" tvg-name="新会综合" tvg-logo="https://epg.112114.xyz/logo/新会综合..png" group-title="其他",新会综合
-http://192.168.31.1:5678/gudou.php?id=xinhui_1500
+https://live.rjke.eu.org/gudou.php?id=3709
+#EXTINF:-1,tvg-id="新会综合.576" tvg-name="新会综合.576" tvg-logo="https://epg.112114.xyz/logo/新会综合..png" group-title="其他",新会综合.576
+https://live.rjke.eu.org/gudou.php?id=xinhui_1500
 #EXTINF:-1,tvg-id="梅州1" tvg-name="梅州1" tvg-logo="https://epg.112114.xyz/logo/梅州1.png" group-title="其他",梅州1
-http://192.168.31.1:5678/gudou.php?id=meizhou1HD_4500
+https://live.rjke.eu.org/gudou.php?id=meizhou1HD_4500
 #EXTINF:-1,tvg-id="梅州2" tvg-name="梅州2" tvg-logo="https://epg.112114.xyz/logo/梅州2.png" group-title="其他",梅州2
-http://192.168.31.1:5678/gudou.php?id=meizhou2HD_4500
+https://live.rjke.eu.org/gudou.php?id=meizhou2HD_4500
 #EXTINF:-1,tvg-id="梅州导视" tvg-name="梅州导视" tvg-logo="https://epg.112114.xyz/logo/梅州导视.png" group-title="其他",梅州导视
-http://192.168.31.1:5678/gudou.php?id=meizhoudaoshiHD
+https://live.rjke.eu.org/gudou.php?id=meizhoudaoshiHD
 #EXTINF:-1,tvg-id="梅县综合" tvg-name="梅县综合" tvg-logo="https://epg.112114.xyz/logo/梅县综合.png" group-title="其他",梅县综合
-http://192.168.31.1:5678/gudou.php?id=meixianHD
+https://live.rjke.eu.org/gudou.php?id=meixianHD
 #EXTINF:-1,tvg-id="平远综合" tvg-name="平远综合" tvg-logo="https://epg.112114.xyz/logo/平远综合.png" group-title="其他",平远综合
-http://192.168.31.1:5678/gudou.php?id=3434_4500
-#EXTINF:-1,tvg-id="五华台" tvg-name="五华台" tvg-logo="https://epg.112114.xyz/logo/五华台..png" group-title="其他",五华台
-http://192.168.31.1:5678/gudou.php?id=wuhua1HD
-#EXTINF:-1,tvg-id="兴宁台" tvg-name="兴宁台" tvg-logo="https://epg.112114.xyz/logo/兴宁台..png" group-title="其他",兴宁台
-http://192.168.31.1:5678/gudou.php?id=xingning1
+https://live.rjke.eu.org/gudou.php?id=3434_4500
+#EXTINF:-1,tvg-id="五华台.576" tvg-name="五华台.576" tvg-logo="https://epg.112114.xyz/logo/五华台..png" group-title="其他",五华台.576
+https://live.rjke.eu.org/gudou.php?id=wuhua1HD
+#EXTINF:-1,tvg-id="兴宁台.576" tvg-name="兴宁台.576" tvg-logo="https://epg.112114.xyz/logo/兴宁台..png" group-title="其他",兴宁台.576
+https://live.rjke.eu.org/gudou.php?id=xingning1
 #EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="其他",茂名综合
-http://192.168.31.1:5678/gudou.php?id=3012_4500
+https://live.rjke.eu.org/gudou.php?id=3012_4500
 #EXTINF:-1,tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.112114.xyz/logo/茂名文化生活.png" group-title="其他",茂名文化生活
-http://192.168.31.1:5678/gudou.php?id=3013_4500
+https://live.rjke.eu.org/gudou.php?id=3013_4500
 #EXTINF:-1,tvg-id="信宜台" tvg-name="信宜台" tvg-logo="https://epg.112114.xyz/logo/信宜台.png" group-title="其他",信宜台
-http://192.168.31.1:5678/gudou.php?id=xinyigaoqing
+https://live.rjke.eu.org/gudou.php?id=xinyigaoqing
 #EXTINF:-1,tvg-id="化州综合.360" tvg-name="化州综合.360" tvg-logo="https://epg.112114.xyz/logo/化州综合..png" group-title="其他",化州综合.360
-http://192.168.31.1:5678/gudou.php?id=huazhoutai
+https://live.rjke.eu.org/gudou.php?id=huazhoutai
 #EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="其他",云浮综合
-http://192.168.31.1:5678/gudou.php?id=yunfuzongheHD_4500
-#EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅..png" group-title="其他",云浮文旅
-http://192.168.31.1:5678/gudou.php?id=yunfuertao_1500
+https://live.rjke.eu.org/gudou.php?id=yunfuzongheHD_4500
+#EXTINF:-1,tvg-id="云浮文旅.576" tvg-name="云浮文旅.576" tvg-logo="https://epg.112114.xyz/logo/云浮文旅..png" group-title="其他",云浮文旅.576
+https://live.rjke.eu.org/gudou.php?id=yunfuertao_1500
 #EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="其他",河源综合
-http://192.168.31.1:5678/gudou.php?id=heyuanzongheHD_4500
-#EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共..png" group-title="其他",河源公共
-http://192.168.31.1:5678/gudou.php?id=heyuanertao_1500
+https://live.rjke.eu.org/gudou.php?id=heyuanzongheHD_4500
+#EXTINF:-1,tvg-id="河源公共.576" tvg-name="河源公共.576" tvg-logo="https://epg.112114.xyz/logo/河源公共..png" group-title="其他",河源公共.576
+https://live.rjke.eu.org/gudou.php?id=heyuanertao_1500
 #EXTINF:-1,tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" group-title="其他",清远新闻综合
-http://192.168.31.1:5678/gudou.php?id=qingyuanzongheHD
-#EXTINF:-1,tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活..png" group-title="其他",清远文旅生活
-http://192.168.31.1:5678/gudou.php?id=qingyuangongong_1500
-#EXTINF:-1,tvg-id="佛冈综合" tvg-name="佛冈综合" tvg-logo="https://epg.112114.xyz/logo/佛冈综合..png" group-title="其他",佛冈综合
-http://192.168.31.1:5678/gudou.php?id=2405
+https://live.rjke.eu.org/gudou.php?id=qingyuanzongheHD
+#EXTINF:-1,tvg-id="清远文旅生活.576" tvg-name="清远文旅生活.576" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活..png" group-title="其他",清远文旅生活.576
+https://live.rjke.eu.org/gudou.php?id=qingyuangongong_1500
+#EXTINF:-1,tvg-id="佛冈综合.576" tvg-name="佛冈综合.576" tvg-logo="https://epg.112114.xyz/logo/佛冈综合..png" group-title="其他",佛冈综合.576
+https://live.rjke.eu.org/gudou.php?id=2405
 #EXTINF:-1,tvg-id="英德综合.360" tvg-name="英德综合.360" tvg-logo="https://epg.112114.xyz/logo/英德综合..png" group-title="其他",英德综合.360
-http://192.168.31.1:5678/gudou.php?id=yingdezonghe
+https://live.rjke.eu.org/gudou.php?id=yingdezonghe
 #EXTINF:-1,tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="其他",汕尾新闻综合
-http://192.168.31.1:5678/gudou.php?id=shanweizongheHD
+https://live.rjke.eu.org/gudou.php?id=shanweizongheHD
 #EXTINF:-1,tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png" group-title="其他",汕尾文化生活
-http://192.168.31.1:5678/gudou.php?id=shanweigonggongHD
+https://live.rjke.eu.org/gudou.php?id=shanweigonggongHD
 #EXTINF:-1,tvg-id="廉江综合-1" tvg-name="廉江综合-1" tvg-logo="https://epg.112114.xyz/logo/廉江综合1.png" group-title="其他",廉江综合-1
-http://192.168.31.1:5678/gudou.php?id=3209
+https://live.rjke.eu.org/gudou.php?id=3209
 #EXTINF:-1,tvg-id="廉江综合-2" tvg-name="廉江综合-2" tvg-logo="https://epg.112114.xyz/logo/廉江综合2.png" group-title="其他",廉江综合-2
-http://192.168.31.1:5678/gudou.php?id=3210
-#EXTINF:-1,tvg-id="湛江综合" tvg-name="湛江综合" tvg-logo="https://epg.112114.xyz/logo/湛江综合..png" group-title="其他",湛江综合
-http://192.168.31.1:5678/gudou.php?id=zhanjiangzonghe_1500
-#EXTINF:-1,tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共..png" group-title="其他",湛江公共
-http://192.168.31.1:5678/gudou.php?id=zhanjianggonggong_1500
-#EXTINF:-1,tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合..png" group-title="其他",韶关新闻综合
-http://192.168.31.1:5678/gudou.php?id=shaoguanzonghe_1500
-#EXTINF:-1,tvg-id="韶关绿色生活" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活..png" group-title="其他",韶关绿色生活
-http://192.168.31.1:5678/gudou.php?id=shaoguangonggong_1500
-#EXTINF:-1,tvg-id="始兴综合" tvg-name="始兴综合" tvg-logo="https://epg.112114.xyz/logo/始兴综合..png" group-title="其他",始兴综合
-http://192.168.31.1:5678/gudou.php?id=2641
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.112114.xyz/logo/肇庆综合..png" group-title="其他",肇庆综合
-http://192.168.31.1:5678/gudou.php?id=zhaoqingyitao_1500
-#EXTINF:-1,tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务..png" group-title="其他",肇庆生活服务
-http://192.168.31.1:5678/gudou.php?id=zhaoqingertao_1500
-#EXTINF:-1,tvg-id="怀集综合" tvg-name="怀集综合" tvg-logo="https://epg.112114.xyz/logo/怀集综合..png" group-title="其他",怀集综合
-http://192.168.31.1:5678/gudou.php?id=2805_2000
+https://live.rjke.eu.org/gudou.php?id=3210
+#EXTINF:-1,tvg-id="湛江综合.576" tvg-name="湛江综合.576" tvg-logo="https://epg.112114.xyz/logo/湛江综合..png" group-title="其他",湛江综合.576
+https://live.rjke.eu.org/gudou.php?id=zhanjiangzonghe_1500
+#EXTINF:-1,tvg-id="湛江公共.576" tvg-name="湛江公共.576" tvg-logo="https://epg.112114.xyz/logo/湛江公共..png" group-title="其他",湛江公共.576
+https://live.rjke.eu.org/gudou.php?id=zhanjianggonggong_1500
+#EXTINF:-1,tvg-id="韶关新闻综合.576" tvg-name="韶关新闻综合.576" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合..png" group-title="其他",韶关新闻综合.576
+https://live.rjke.eu.org/gudou.php?id=shaoguanzonghe_1500
+#EXTINF:-1,tvg-id="韶关绿色生活.576" tvg-name="韶关绿色生活.576" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活..png" group-title="其他",韶关绿色生活.576
+https://live.rjke.eu.org/gudou.php?id=shaoguangonggong_1500
+#EXTINF:-1,tvg-id="始兴综合.576" tvg-name="始兴综合.576" tvg-logo="https://epg.112114.xyz/logo/始兴综合..png" group-title="其他",始兴综合.576
+https://live.rjke.eu.org/gudou.php?id=2641
+#EXTINF:-1,tvg-id="肇庆综合.576" tvg-name="肇庆综合.576" tvg-logo="https://epg.112114.xyz/logo/肇庆综合..png" group-title="其他",肇庆综合.576
+https://live.rjke.eu.org/gudou.php?id=zhaoqingyitao_1500
+#EXTINF:-1,tvg-id="肇庆生活服务.576" tvg-name="肇庆生活服务.576" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务..png" group-title="其他",肇庆生活服务.576
+https://live.rjke.eu.org/gudou.php?id=zhaoqingertao_1500
+#EXTINF:-1,tvg-id="怀集综合.576" tvg-name="怀集综合.576" tvg-logo="https://epg.112114.xyz/logo/怀集综合..png" group-title="其他",怀集综合.576
+https://live.rjke.eu.org/gudou.php?id=2805_2000
 #EXTINF:-1,tvg-id="广州共享课堂一年级" tvg-name="广州共享课堂一年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png" group-title="其他",广州共享课堂一年级
-http://192.168.31.1:5678/gudou.php?id=2061_1500
+https://live.rjke.eu.org/gudou.php?id=2061_1500
 #EXTINF:-1,tvg-id="广州共享课堂二年级" tvg-name="广州共享课堂二年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png" group-title="其他",广州共享课堂二年级
-http://192.168.31.1:5678/gudou.php?id=2062_1500
+https://live.rjke.eu.org/gudou.php?id=2062_1500
 #EXTINF:-1,tvg-id="广州共享课堂三年级" tvg-name="广州共享课堂三年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂三年级.png" group-title="其他",广州共享课堂三年级
-http://192.168.31.1:5678/gudou.php?id=2063_1500
+https://live.rjke.eu.org/gudou.php?id=2063_1500
 #EXTINF:-1,tvg-id="广州共享课堂四年级" tvg-name="广州共享课堂四年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂四年级.png" group-title="其他",广州共享课堂四年级
-http://192.168.31.1:5678/gudou.php?id=2064_1500
+https://live.rjke.eu.org/gudou.php?id=2064_1500
 #EXTINF:-1,tvg-id="广州共享课堂五年级" tvg-name="广州共享课堂五年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂五年级.png" group-title="其他",广州共享课堂五年级
-http://192.168.31.1:5678/gudou.php?id=2065_1500
+https://live.rjke.eu.org/gudou.php?id=2065_1500
 #EXTINF:-1,tvg-id="广州共享课堂六年级" tvg-name="广州共享课堂六年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂六年级.png" group-title="其他",广州共享课堂六年级
-http://192.168.31.1:5678/gudou.php?id=2066_1500
+https://live.rjke.eu.org/gudou.php?id=2066_1500
 #EXTINF:-1,tvg-id="广州共享课堂初一" tvg-name="广州共享课堂初一" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初一.png" group-title="其他",广州共享课堂初一
-http://192.168.31.1:5678/gudou.php?id=2067_1500
+https://live.rjke.eu.org/gudou.php?id=2067_1500
 #EXTINF:-1,tvg-id="广州共享课堂初二" tvg-name="广州共享课堂初二" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初二.png" group-title="其他",广州共享课堂初二
-http://192.168.31.1:5678/gudou.php?id=2068_1500
+https://live.rjke.eu.org/gudou.php?id=2068_1500
 #EXTINF:-1,tvg-id="广州共享课堂初三" tvg-name="广州共享课堂初三" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初三.png" group-title="其他",广州共享课堂初三
-http://192.168.31.1:5678/gudou.php?id=2069_1500
+https://live.rjke.eu.org/gudou.php?id=2069_1500
 #EXTINF:-1,tvg-id="广州共享课堂高一" tvg-name="广州共享课堂高一" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高一.png" group-title="其他",广州共享课堂高一
-http://192.168.31.1:5678/gudou.php?id=2070_1500
+https://live.rjke.eu.org/gudou.php?id=2070_1500
 #EXTINF:-1,tvg-id="广州共享课堂高二" tvg-name="广州共享课堂高二" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高二.png" group-title="其他",广州共享课堂高二
-http://192.168.31.1:5678/gudou.php?id=2071_1500
+https://live.rjke.eu.org/gudou.php?id=2071_1500
