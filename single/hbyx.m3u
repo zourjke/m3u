@@ -1,135 +1,135 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://zourjke.eu.org:84/hbyx.php?id=cctv1hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv1hd_3000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-http://zourjke.eu.org:84/hbyx.php?id=cctv2hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv2hd_3000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-http://zourjke.eu.org:84/hbyx.php?id=cctv3hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv3hd_3000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://zourjke.eu.org:84/hbyx.php?id=cctv4_1000
+http://zourjke.eu.org:84/hk.php?id=cctv4_1000
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-http://zourjke.eu.org:84/hbyx.php?id=cctv5hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv5hd_3000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
-http://zourjke.eu.org:84/hbyx.php?id=cctv5jhd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv5jhd_3000
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-http://zourjke.eu.org:84/hbyx.php?id=cctv6hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv6hd_3000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-http://zourjke.eu.org:84/hbyx.php?id=cctv7hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv7hd_3000
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-http://zourjke.eu.org:84/hbyx.php?id=cctv8hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv8hd_3000
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
-http://zourjke.eu.org:84/hbyx.php?id=cctv9hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv9hd_3000
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-http://zourjke.eu.org:84/hbyx.php?id=cctv10hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv10hd_3000
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-http://zourjke.eu.org:84/hbyx.php?id=cctv11_1000
+http://zourjke.eu.org:84/hk.php?id=cctv11_1000
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://zourjke.eu.org:84/hbyx.php?id=cctv12hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv12hd_3000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
-http://zourjke.eu.org:84/hbyx.php?id=cctv13_1000
+http://zourjke.eu.org:84/hk.php?id=cctv13_1000
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
-http://zourjke.eu.org:84/hbyx.php?id=cctv17hd_1000
+http://zourjke.eu.org:84/hk.php?id=cctv17hd_1000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-http://zourjke.eu.org:84/hbyx.php?id=cctv16hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv16hd_3000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
-http://zourjke.eu.org:84/hbyx.php?id=cctv14hd_3000
+http://zourjke.eu.org:84/hk.php?id=cctv14hd_3000
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
-http://zourjke.eu.org:84/hbyx.php?id=cctvnews_1000
+http://zourjke.eu.org:84/hk.php?id=cctvnews_1000
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://zourjke.eu.org:84/hbyx.php?id=dnwshd_3000
+http://zourjke.eu.org:84/hk.php?id=dnwshd_3000
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-http://zourjke.eu.org:84/hbyx.php?id=dfwshd_3000
+http://zourjke.eu.org:84/hk.php?id=dfwshd_3000
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://zourjke.eu.org:84/hbyx.php?id=szwshd_3000
+http://zourjke.eu.org:84/hk.php?id=szwshd_3000
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-http://zourjke.eu.org:84/hbyx.php?id=tjwshd_3000
+http://zourjke.eu.org:84/hk.php?id=tjwshd_3000
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://zourjke.eu.org:84/hbyx.php?id=gdwshd_3000
+http://zourjke.eu.org:84/hk.php?id=gdwshd_3000
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://zourjke.eu.org:84/hbyx.php?id=ahwshd_3000
+http://zourjke.eu.org:84/hk.php?id=ahwshd_3000
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://zourjke.eu.org:84/hbyx.php?id=lnwshd_3000
+http://zourjke.eu.org:84/hk.php?id=lnwshd_3000
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-http://zourjke.eu.org:84/hbyx.php?id=scwshd_3000
+http://zourjke.eu.org:84/hk.php?id=scwshd_3000
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://zourjke.eu.org:84/hbyx.php?id=cqwshd_3000
+http://zourjke.eu.org:84/hk.php?id=cqwshd_3000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://zourjke.eu.org:84/hbyx.php?id=gxwshd_3000
+http://zourjke.eu.org:84/hk.php?id=gxwshd_3000
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
-http://zourjke.eu.org:84/hbyx.php?id=qhws_1000
+http://zourjke.eu.org:84/hk.php?id=qhws_1000
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://zourjke.eu.org:84/hbyx.php?id=sxws_1000
+http://zourjke.eu.org:84/hk.php?id=sxws_1000
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://zourjke.eu.org:84/hbyx.php?id=jswshd_3000
+http://zourjke.eu.org:84/hk.php?id=jswshd_3000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://zourjke.eu.org:84/hbyx.php?id=bjwshd_3000
+http://zourjke.eu.org:84/hk.php?id=bjwshd_3000
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://zourjke.eu.org:84/hbyx.php?id=hnwshd_3000
+http://zourjke.eu.org:84/hk.php?id=hnwshd_3000
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://zourjke.eu.org:84/hbyx.php?id=zjwshd_3000
+http://zourjke.eu.org:84/hk.php?id=zjwshd_3000
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-http://zourjke.eu.org:84/hbyx.php?id=jxwshd_3000
+http://zourjke.eu.org:84/hk.php?id=jxwshd_3000
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://zourjke.eu.org:84/hbyx.php?id=jlwshd_3000
+http://zourjke.eu.org:84/hk.php?id=jlwshd_3000
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://zourjke.eu.org:84/hbyx.php?id=gzwshd_3000
+http://zourjke.eu.org:84/hk.php?id=gzwshd_3000
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://zourjke.eu.org:84/hbyx.php?id=hljwshd_3000
+http://zourjke.eu.org:84/hk.php?id=hljwshd_3000
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://zourjke.eu.org:84/hbyx.php?id=gsws_1000
+http://zourjke.eu.org:84/hk.php?id=gsws_1000
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://zourjke.eu.org:84/hbyx.php?id=ynws_1000
+http://zourjke.eu.org:84/hk.php?id=ynws_1000
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://zourjke.eu.org:84/hbyx.php?id=nxws_1000
+http://zourjke.eu.org:84/hk.php?id=nxws_1000
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://zourjke.eu.org:84/hbyx.php?id=btws_1000
+http://zourjke.eu.org:84/hk.php?id=btws_1000
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://zourjke.eu.org:84/hbyx.php?id=xjws_1000
+http://zourjke.eu.org:84/hk.php?id=xjws_1000
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://zourjke.eu.org:84/hbyx.php?id=xzws_1000
+http://zourjke.eu.org:84/hk.php?id=xzws_1000
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://zourjke.eu.org:84/hbyx.php?id=nmws_1000
+http://zourjke.eu.org:84/hk.php?id=nmws_1000
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://zourjke.eu.org:84/hbyx.php?id=henwshd_3000
+http://zourjke.eu.org:84/hk.php?id=henwshd_3000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://zourjke.eu.org:84/hbyx.php?id=hainwshd_3000
+http://zourjke.eu.org:84/hk.php?id=hainwshd_3000
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
-http://zourjke.eu.org:84/hbyx.php?id=hebws_1000
+http://zourjke.eu.org:84/hk.php?id=hebws_1000
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://zourjke.eu.org:84/hbyx.php?id=shxws_1000
+http://zourjke.eu.org:84/hk.php?id=shxws_1000
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合
-http://zourjke.eu.org:84/hbyx.php?id=hbzhhd_3000
+http://zourjke.eu.org:84/hk.php?id=hbzhhd_3000
 #EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="湖北",湖北经视
-http://zourjke.eu.org:84/hbyx.php?id=hbjsjd_3000
+http://zourjke.eu.org:84/hk.php?id=hbjsjd_3000
 #EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上.png" group-title="湖北",湖北垄上
-http://zourjke.eu.org:84/hbyx.php?id=hblshd_3000
+http://zourjke.eu.org:84/hk.php?id=hblshd_3000
 #EXTINF:-1,tvg-id="湖北公共·新闻" tvg-name="湖北公共·新闻" tvg-logo="https://epg.112114.xyz/logo/湖北公共·新闻.png" group-title="湖北",湖北公共·新闻
-http://zourjke.eu.org:84/hbyx.php?id=hbgghd_3000
+http://zourjke.eu.org:84/hk.php?id=hbgghd_3000
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视
-http://zourjke.eu.org:84/hbyx.php?id=hbys_1000
+http://zourjke.eu.org:84/hk.php?id=hbys_1000
 #EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.112114.xyz/logo/湖北生活.png" group-title="湖北",湖北生活
-http://zourjke.eu.org:84/hbyx.php?id=hbsh_1000
+http://zourjke.eu.org:84/hk.php?id=hbsh_1000
 #EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.112114.xyz/logo/湖北教育.png" group-title="湖北",湖北教育
-http://zourjke.eu.org:84/hbyx.php?id=hbjy_1000
+http://zourjke.eu.org:84/hk.php?id=hbjy_1000
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育1
-http://zourjke.eu.org:84/hbyx.php?id=zgjy1hd_3000
+http://zourjke.eu.org:84/hk.php?id=zgjy1hd_3000
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4
-http://zourjke.eu.org:84/hbyx.php?id=zgjy4_1000
+http://zourjke.eu.org:84/hk.php?id=zgjy4_1000
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实
-http://zourjke.eu.org:84/hbyx.php?id=shjs_1000
+http://zourjke.eu.org:84/hk.php?id=shjs_1000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
-http://zourjke.eu.org:84/hbyx.php?id=kkse_1000
+http://zourjke.eu.org:84/hk.php?id=kkse_1000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-http://zourjke.eu.org:84/hbyx.php?id=jyjs_1000
+http://zourjke.eu.org:84/hk.php?id=jyjs_1000
 #EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="其他",家庭理财
-http://zourjke.eu.org:84/hbyx.php?id=jtlc_1000
+http://zourjke.eu.org:84/hk.php?id=jtlc_1000
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://zourjke.eu.org:84/hbyx.php?id=jjkt_1000
+http://zourjke.eu.org:84/hk.php?id=jjkt_1000
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://zourjke.eu.org:84/hbyx.php?id=jiajkt_1000
+http://zourjke.eu.org:84/hk.php?id=jiajkt_1000
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实
-http://zourjke.eu.org:84/hbyx.php?id=dajs_1000
+http://zourjke.eu.org:84/hk.php?id=dajs_1000
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="山东",山东教育
-http://zourjke.eu.org:84/hbyx.php?id=sdjyws_1000
+http://zourjke.eu.org:84/hk.php?id=sdjyws_1000
 #EXTINF:-1,tvg-id="中国气象" tvg-name="中国气象" tvg-logo="https://epg.112114.xyz/logo/中国气象.png" group-title="其他",中国气象
-http://zourjke.eu.org:84/hbyx.php?id=zgqx_1000
+http://zourjke.eu.org:84/hk.php?id=zgqx_1000
