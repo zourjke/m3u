@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV4K-UHD" tvg-name="CCTV4K-UHD" tvg-logo="https://epg.112114.xyz/logo/CCTV4KU.png" group-title="央视",CCTV4K-UHD
 http://14.22.20.128/live-gitv-nx-yh.189smarthome.com/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合
