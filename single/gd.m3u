@@ -1,46 +1,44 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://zourjke.eu.org:84/doudou.php?id=4005
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K",CCTV16-4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
 http://zourjke.eu.org:84/doudou.php?id=4010
-#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K",广东综艺4K
+#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺4K
 http://zourjke.eu.org:84/doudou.php?id=GDZYHD4K_38000
-#EXTINF:-1,tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="4K",G导视高清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
 http://zourjke.eu.org:84/doudou.php?id=GHDdaoshi_7500
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://zourjke.eu.org:84/doudou.php?id=1350_4500
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 http://zourjke.eu.org:84/doudou.php?id=1351_4500
-#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳台",澳视澳门
-http://zourjke.eu.org:84/doudou.php?id=1352_4500
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://zourjke.eu.org:84/doudou.php?id=fhzw_1500
-#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视..png" group-title="港澳台",星空卫视
+#EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视",星空卫视
 http://zourjke.eu.org:84/doudou.php?id=xingkong_1500
-#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="港澳台",澳亚卫视
+#EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="卫视",澳亚卫视
 http://zourjke.eu.org:84/doudou.php?id=aoya_1500
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://zourjke.eu.org:84/doudou.php?id=1402_4500
+http://zourjke.eu.org:84/doudou.php?id=CCTV1HD_7000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://zourjke.eu.org:84/doudou.php?id=CCTV2HD_7000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
-http://zourjke.eu.org:84/doudou.php?id=1603
+http://zourjke.eu.org:84/doudou.php?id=CCTV3HD_7000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://zourjke.eu.org:84/doudou.php?id=1604
+http://zourjke.eu.org:84/doudou.php?id=CCTV-4HD_7500
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
-http://zourjke.eu.org:84/doudou.php?id=1605
+http://zourjke.eu.org:84/doudou.php?id=1605_4500
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
-http://zourjke.eu.org:84/doudou.php?id=1403
+http://zourjke.eu.org:84/doudou.php?id=1403_4500
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-http://zourjke.eu.org:84/doudou.php?id=1606
+http://zourjke.eu.org:84/doudou.php?id=CCTV6HD_7000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
-http://zourjke.eu.org:84/doudou.php?id=1607
+http://zourjke.eu.org:84/doudou.php?id=CCTV7HD_7000
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
-http://zourjke.eu.org:84/doudou.php?id=1608
+http://zourjke.eu.org:84/doudou.php?id=CCTV8HD_7000
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
 http://zourjke.eu.org:84/doudou.php?id=CCTV9HD_7000
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
-http://zourjke.eu.org:84/doudou.php?id=1610
+http://zourjke.eu.org:84/doudou.php?id=CCTV10HD_7000
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
 http://zourjke.eu.org:84/doudou.php?id=CCTV-11HD_7500
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
@@ -55,26 +53,26 @@ http://zourjke.eu.org:84/doudou.php?id=CCTV-15HD_7500
 http://zourjke.eu.org:84/doudou.php?id=1617_4500
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://zourjke.eu.org:84/doudou.php?id=CCTV17HD
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN..png" group-title="央视",CGTN
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://zourjke.eu.org:84/doudou.php?id=CCTV15news_1500
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://zourjke.eu.org:84/doudou.php?id=zhejiangHD_7000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://zourjke.eu.org:84/doudou.php?id=hunanHD_7000
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://zourjke.eu.org:84/doudou.php?id=1401
+http://zourjke.eu.org:84/doudou.php?id=guangdongHD_7000
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://zourjke.eu.org:84/doudou.php?id=shenzhenHD_7000
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://zourjke.eu.org:84/doudou.php?id=dongfangHD_7000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://zourjke.eu.org:84/doudou.php?id=beijingHD_7000
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://zourjke.eu.org:84/doudou.php?id=hunanHD_7000
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://zourjke.eu.org:84/doudou.php?id=jiangxiHD_7000
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://zourjke.eu.org:84/doudou.php?id=sichuanHD_7000
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://zourjke.eu.org:84/doudou.php?id=jiangsuHD_7000
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://zourjke.eu.org:84/doudou.php?id=zhejiangHD_7000
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
 http://zourjke.eu.org:84/doudou.php?id=1415_4500
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
@@ -91,39 +89,17 @@ http://zourjke.eu.org:84/doudou.php?id=hubeiHD_7000
 http://zourjke.eu.org:84/doudou.php?id=anhuiHD_7000
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://zourjke.eu.org:84/doudou.php?id=heilongjiangHD_7000
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://zourjke.eu.org:84/doudou.php?id=jilinHD
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://zourjke.eu.org:84/doudou.php?id=1451_4500
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://zourjke.eu.org:84/doudou.php?id=1453
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://zourjke.eu.org:84/doudou.php?id=1452_4500
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://zourjke.eu.org:84/doudou.php?id=dongnanweishiHD
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://zourjke.eu.org:84/doudou.php?id=1416_4500
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://zourjke.eu.org:84/doudou.php?id=henangaoqing_3000
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://zourjke.eu.org:84/doudou.php?id=guangxi
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://zourjke.eu.org:84/doudou.php?id=1456
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
-http://zourjke.eu.org:84/doudou.php?id=1937
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
-http://zourjke.eu.org:84/doudou.php?id=1938
-#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.112114.xyz/logo/文物宝库.png" group-title="其他",文物宝库
-http://zourjke.eu.org:84/doudou.php?id=1939
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
-http://zourjke.eu.org:84/doudou.php?id=1940
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
-http://zourjke.eu.org:84/doudou.php?id=1941
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://zourjke.eu.org:84/doudou.php?id=1453
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 http://zourjke.eu.org:84/doudou.php?id=CHCHD_7000
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
-http://zourjke.eu.org:84/doudou.php?id=dushijuchangHD_7000
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://zourjke.eu.org:84/doudou.php?id=quanjishiHD_7000
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录
 http://zourjke.eu.org:84/doudou.php?id=QSJLHD_7000
@@ -131,191 +107,153 @@ http://zourjke.eu.org:84/doudou.php?id=QSJLHD_7000
 http://zourjke.eu.org:84/doudou.php?id=qiusuokexueHD_7000
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物
 http://zourjke.eu.org:84/doudou.php?id=QSDWHD_7000
-#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="其他",求索生活
-http://zourjke.eu.org:84/doudou.php?id=1612
+#EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="其他",求索生活
+http://zourjke.eu.org:84/doudou.php?id=QSSHHD_7000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
 http://zourjke.eu.org:84/doudou.php?id=meiliyinyueHD_7000
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="其他",劲爆体育
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
 http://zourjke.eu.org:84/doudou.php?id=jinbaotiyuHD_7000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
-http://zourjke.eu.org:84/doudou.php?id=xinshijuegaoqing
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
-http://zourjke.eu.org:84/doudou.php?id=youxifengyunHD
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 http://zourjke.eu.org:84/doudou.php?id=gdzhujiangHD_7500
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://zourjke.eu.org:84/doudou.php?id=1413
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://zourjke.eu.org:84/doudou.php?id=1454
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生
-http://zourjke.eu.org:84/doudou.php?id=1455
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
 http://zourjke.eu.org:84/doudou.php?id=GDjingjikejiaoHD_7000
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://zourjke.eu.org:84/doudou.php?id=gdnews_1500
+#EXTINF:-1,tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东",广东公共
+http://zourjke.eu.org:84/doudou.php?id=gdpublic_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://zourjke.eu.org:84/doudou.php?id=gdnanfang_1500
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://zourjke.eu.org:84/doudou.php?id=1458
-#EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
-http://zourjke.eu.org:84/doudou.php?id=1457
+http://zourjke.eu.org:84/doudou.php?id=gdyingshi_1500
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://zourjke.eu.org:84/doudou.php?id=1459
-#EXTINF:-1,tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="其他",岭南戏曲
-http://zourjke.eu.org:84/doudou.php?id=1460
-#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",广州综合
-http://zourjke.eu.org:84/doudou.php?id=gzhounewsHD
-#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
-http://zourjke.eu.org:84/doudou.php?id=gzhouzongheHD
-#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="广东",广州影视
-http://zourjke.eu.org:84/doudou.php?id=gzcompetitiongaoqing
-#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="广东",广州竞赛
-http://zourjke.eu.org:84/doudou.php?id=gzfilmsgaoqing
-#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
-http://zourjke.eu.org:84/doudou.php?id=gzeconomic_1500
-#EXTINF:-1,tvg-id="增城台" tvg-name="增城台" tvg-logo="https://epg.112114.xyz/logo/增城台.png" group-title="广东",增城台
-http://zourjke.eu.org:84/doudou.php?id=2079
-#EXTINF:-1,tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" group-title="广东",东莞新闻综合
-http://zourjke.eu.org:84/doudou.php?id=2121
-#EXTINF:-1,tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="广东",东莞生活资讯
-http://zourjke.eu.org:84/doudou.php?id=2122
-#EXTINF:-1,tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" group-title="广东",佛山综合
-http://zourjke.eu.org:84/doudou.php?id=foshanzongheHD_4500
-#EXTINF:-1,tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png" group-title="广东",佛山公共
-http://zourjke.eu.org:84/doudou.php?id=foshangonggongHD_4500
-#EXTINF:-1,tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png" group-title="广东",佛山影视
-http://zourjke.eu.org:84/doudou.php?id=foshanyingshiHD_4500
-#EXTINF:-1,tvg-id="南海综合" tvg-name="南海综合" tvg-logo="https://epg.112114.xyz/logo/南海综合.png" group-title="广东",南海综合
-http://zourjke.eu.org:84/doudou.php?id=nanhaiHD_4500
-#EXTINF:-1,tvg-id="顺德综合" tvg-name="顺德综合" tvg-logo="https://epg.112114.xyz/logo/顺德综合.png" group-title="广东",顺德综合
-http://zourjke.eu.org:84/doudou.php?id=shundeHD_4500
-#EXTINF:-1,tvg-id="珠海1" tvg-name="珠海1" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="广东",珠海1
-http://zourjke.eu.org:84/doudou.php?id=zhuhaiHD1_4500
-#EXTINF:-1,tvg-id="珠海2" tvg-name="珠海2" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="广东",珠海2
-http://zourjke.eu.org:84/doudou.php?id=zhuhaiHD2_4500
-#EXTINF:-1,tvg-id="斗门融媒" tvg-name="斗门融媒" tvg-logo="https://epg.112114.xyz/logo/斗门融媒.png" group-title="广东",斗门融媒
-http://zourjke.eu.org:84/doudou.php?id=2207
-#EXTINF:-1,tvg-id="惠州1" tvg-name="惠州1" tvg-logo="https://epg.112114.xyz/logo/惠州1.png" group-title="广东",惠州1
-http://zourjke.eu.org:84/doudou.php?id=2314
-#EXTINF:-1,tvg-id="惠州2" tvg-name="惠州2" tvg-logo="https://epg.112114.xyz/logo/惠州2.png" group-title="广东",惠州2
-http://zourjke.eu.org:84/doudou.php?id=2316
-#EXTINF:-1,tvg-id="博罗综合" tvg-name="博罗综合" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png" group-title="广东",博罗综合
-http://zourjke.eu.org:84/doudou.php?id=2305
-#EXTINF:-1,tvg-id="惠东综合" tvg-name="惠东综合" tvg-logo="https://epg.112114.xyz/logo/惠东综合.png" group-title="广东",惠东综合
-http://zourjke.eu.org:84/doudou.php?id=huidongHD
-#EXTINF:-1,tvg-id="惠阳台" tvg-name="惠阳台" tvg-logo="https://epg.112114.xyz/logo/惠阳台..png" group-title="广东",惠阳台
-http://zourjke.eu.org:84/doudou.php?id=huiyangtai
-#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="广东",潮州综合
-http://zourjke.eu.org:84/doudou.php?id=3131
-#EXTINF:-1,tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="广东",潮州民生
-http://zourjke.eu.org:84/doudou.php?id=3132
-#EXTINF:-1,tvg-id="潮安综合" tvg-name="潮安综合" tvg-logo="https://epg.112114.xyz/logo/潮安综合.png" group-title="广东",潮安综合
-http://zourjke.eu.org:84/doudou.php?id=chaoanzongheHD
-#EXTINF:-1,tvg-id="饶平台" tvg-name="饶平台" tvg-logo="https://epg.112114.xyz/logo/饶平台.png" group-title="广东",饶平台
-http://zourjke.eu.org:84/doudou.php?id=raopingtaiHD
-#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="广东",汕头综合
+http://zourjke.eu.org:84/doudou.php?id=gdjiajiacartoon_1500
+#EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+http://zourjke.eu.org:84/doudou.php?id=gdshaoer_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png" group-title="其他",汕头综合
 http://zourjke.eu.org:84/doudou.php?id=shantouyitaogaoqing_4500
-#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="广东",汕头经济生活
+#EXTINF:-1,tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png" group-title="其他",汕头经济生活
 http://zourjke.eu.org:84/doudou.php?id=shantouertaogaoqing_4500
-#EXTINF:-1,tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png" group-title="其他",汕头文旅体育
 http://zourjke.eu.org:84/doudou.php?id=2508_4500
-#EXTINF:-1,tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://zourjke.eu.org:84/doudou.php?id=jieyangzongheHD
-#EXTINF:-1,tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://zourjke.eu.org:84/doudou.php?id=jieyanggonggongHD
-#EXTINF:-1,tvg-id="揭东综合" tvg-name="揭东综合" tvg-logo="https://epg.112114.xyz/logo/揭东综合..png" group-title="广东",揭东综合
-http://zourjke.eu.org:84/doudou.php?id=jiedongzonghe
-#EXTINF:-1,tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="广东",中山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png" group-title="其他",潮州综合
+http://zourjke.eu.org:84/doudou.php?id=3131
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png" group-title="其他",潮州民生
+http://zourjke.eu.org:84/doudou.php?id=3132
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中山综合.png" group-title="其他",中山综合
 http://zourjke.eu.org:84/doudou.php?id=3665
-#EXTINF:-1,tvg-id="中山香山文化" tvg-name="中山香山文化" tvg-logo="https://epg.112114.xyz/logo/中山香山文化.png" group-title="广东",中山香山文化
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中山公共.png" group-title="其他",中山公共
 http://zourjke.eu.org:84/doudou.php?id=3663
-#EXTINF:-1,tvg-id="中山教育" tvg-name="中山教育" tvg-logo="https://epg.112114.xyz/logo/中山教育.png" group-title="广东",中山教育
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中山教育.png" group-title="其他",中山教育
 http://zourjke.eu.org:84/doudou.php?id=3664
-#EXTINF:-1,tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="广东",江门综合
-http://zourjke.eu.org:84/doudou.php?id=jiangmenzongheHD
-#EXTINF:-1,tvg-id="江门侨乡生活" tvg-name="江门侨乡生活" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活..png" group-title="广东",江门侨乡生活
-http://zourjke.eu.org:84/doudou.php?id=jiangmenyitao_1500
-#EXTINF:-1,tvg-id="鹤山综合" tvg-name="鹤山综合" tvg-logo="https://epg.112114.xyz/logo/鹤山综合.png" group-title="广东",鹤山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/鹤山综合.png" group-title="其他",鹤山综合
 http://zourjke.eu.org:84/doudou.php?id=3709
-#EXTINF:-1,tvg-id="新会综合" tvg-name="新会综合" tvg-logo="https://epg.112114.xyz/logo/新会综合..png" group-title="广东",新会综合
-http://zourjke.eu.org:84/doudou.php?id=xinhui_1500
-#EXTINF:-1,tvg-id="梅州1" tvg-name="梅州1" tvg-logo="https://epg.112114.xyz/logo/梅州1.png" group-title="广东",梅州1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梅州1.png" group-title="其他",梅州1
 http://zourjke.eu.org:84/doudou.php?id=meizhou1HD_4500
-#EXTINF:-1,tvg-id="梅州2" tvg-name="梅州2" tvg-logo="https://epg.112114.xyz/logo/梅州2.png" group-title="广东",梅州2
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梅州2.png" group-title="其他",梅州2
 http://zourjke.eu.org:84/doudou.php?id=meizhou2HD_4500
-#EXTINF:-1,tvg-id="梅州导视" tvg-name="梅州导视" tvg-logo="https://epg.112114.xyz/logo/梅州导视.png" group-title="广东",梅州导视
-http://zourjke.eu.org:84/doudou.php?id=meizhoudaoshiHD
-#EXTINF:-1,tvg-id="梅县综合" tvg-name="梅县综合" tvg-logo="https://epg.112114.xyz/logo/梅县综合.png" group-title="广东",梅县综合
-http://zourjke.eu.org:84/doudou.php?id=meixianHD
-#EXTINF:-1,tvg-id="平远综合" tvg-name="平远综合" tvg-logo="https://epg.112114.xyz/logo/平远综合.png" group-title="广东",平远综合
-http://zourjke.eu.org:84/doudou.php?id=3434_4500
-#EXTINF:-1,tvg-id="五华台" tvg-name="五华台" tvg-logo="https://epg.112114.xyz/logo/五华台..png" group-title="广东",五华台
-http://zourjke.eu.org:84/doudou.php?id=wuhua1HD
-#EXTINF:-1,tvg-id="兴宁台" tvg-name="兴宁台" tvg-logo="https://epg.112114.xyz/logo/兴宁台..png" group-title="广东",兴宁台
-http://zourjke.eu.org:84/doudou.php?id=xingning1
-#EXTINF:-1,tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://epg.112114.xyz/logo/茂名综合.png" group-title="广东",茂名综合
-http://zourjke.eu.org:84/doudou.php?id=3012_4500
-#EXTINF:-1,tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://epg.112114.xyz/logo/茂名文化生活.png" group-title="广东",茂名文化生活
-http://zourjke.eu.org:84/doudou.php?id=3013_4500
-#EXTINF:-1,tvg-id="信宜台" tvg-name="信宜台" tvg-logo="https://epg.112114.xyz/logo/信宜台.png" group-title="广东",信宜台
-http://zourjke.eu.org:84/doudou.php?id=xinyigaoqing
-#EXTINF:-1,tvg-id="化州综合.360" tvg-name="化州综合.360" tvg-logo="https://epg.112114.xyz/logo/化州综合..png" group-title="广东",化州综合.360
-http://zourjke.eu.org:84/doudou.php?id=huazhoutai
-#EXTINF:-1,tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="广东",云浮综合
-http://zourjke.eu.org:84/doudou.php?id=yunfuzongheHD_4500
-#EXTINF:-1,tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://epg.112114.xyz/logo/云浮文旅..png" group-title="广东",云浮文旅
-http://zourjke.eu.org:84/doudou.php?id=yunfuertao_1500
-#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="广东",河源综合
-http://zourjke.eu.org:84/doudou.php?id=heyuanzongheHD_4500
-#EXTINF:-1,tvg-id="河源公共" tvg-name="河源公共" tvg-logo="https://epg.112114.xyz/logo/河源公共..png" group-title="广东",河源公共
-http://zourjke.eu.org:84/doudou.php?id=heyuanertao_1500
-#EXTINF:-1,tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" group-title="广东",清远新闻综合
-http://zourjke.eu.org:84/doudou.php?id=qingyuanzongheHD
-#EXTINF:-1,tvg-id="清远文旅生活" tvg-name="清远文旅生活" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活..png" group-title="广东",清远文旅生活
-http://zourjke.eu.org:84/doudou.php?id=qingyuangongong_1500
-#EXTINF:-1,tvg-id="佛冈综合" tvg-name="佛冈综合" tvg-logo="https://epg.112114.xyz/logo/佛冈综合..png" group-title="广东",佛冈综合
-http://zourjke.eu.org:84/doudou.php?id=2405
-#EXTINF:-1,tvg-id="英德综合.360" tvg-name="英德综合.360" tvg-logo="https://epg.112114.xyz/logo/英德综合..png" group-title="广东",英德综合.360
-http://zourjke.eu.org:84/doudou.php?id=yingdezonghe
-#EXTINF:-1,tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="广东",汕尾新闻综合
-http://zourjke.eu.org:84/doudou.php?id=shanweizongheHD
-#EXTINF:-1,tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png" group-title="广东",汕尾文化生活
-http://zourjke.eu.org:84/doudou.php?id=shanweigonggongHD
-#EXTINF:-1,tvg-id="廉江综合-1" tvg-name="廉江综合-1" tvg-logo="https://epg.112114.xyz/logo/廉江综合1.png" group-title="广东",廉江综合-1
-http://zourjke.eu.org:84/doudou.php?id=3209
-#EXTINF:-1,tvg-id="廉江综合-2" tvg-name="廉江综合-2" tvg-logo="https://epg.112114.xyz/logo/廉江综合2.png" group-title="广东",廉江综合-2
-http://zourjke.eu.org:84/doudou.php?id=3210
-#EXTINF:-1,tvg-id="湛江综合" tvg-name="湛江综合" tvg-logo="https://epg.112114.xyz/logo/湛江综合..png" group-title="广东",湛江综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/增城电视台.png" group-title="其他",增城电视台
+http://zourjke.eu.org:84/doudou.php?id=2079
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png" group-title="其他",东莞新闻综合
+http://zourjke.eu.org:84/doudou.php?id=2121
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="其他",东莞生活资讯
+http://zourjke.eu.org:84/doudou.php?id=2122
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png" group-title="其他",佛山综合
+http://zourjke.eu.org:84/doudou.php?id=foshanzongheHD_4500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png" group-title="其他",佛山公共
+http://zourjke.eu.org:84/doudou.php?id=foshangonggongHD_4500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png" group-title="其他",佛山影视
+http://zourjke.eu.org:84/doudou.php?id=foshanyingshiHD_4500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南海综合.png" group-title="其他",南海综合
+http://zourjke.eu.org:84/doudou.php?id=nanhaiHD_4500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/顺德综合.png" group-title="其他",顺德综合
+http://zourjke.eu.org:84/doudou.php?id=shundeHD_4500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/斗门融媒.png" group-title="其他",斗门融媒
+http://zourjke.eu.org:84/doudou.php?id=2207
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/惠州1.png" group-title="其他",惠州1
+http://zourjke.eu.org:84/doudou.php?id=2314
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/惠州2.png" group-title="其他",惠州2
+http://zourjke.eu.org:84/doudou.php?id=2316
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png" group-title="其他",博罗综合
+http://zourjke.eu.org:84/doudou.php?id=2305
+#EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="其他",广州综合
+http://zourjke.eu.org:84/doudou.php?id=guangzhou_1500
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="其他",广州新闻
+http://zourjke.eu.org:84/doudou.php?id=gznews_1500
+#EXTINF:-1,tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="其他",广州法治
+http://zourjke.eu.org:84/doudou.php?id=gzeconomic_1500
+#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="其他",广州竞赛
+http://zourjke.eu.org:84/doudou.php?id=gzcompetition_1500
+#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="其他",广州影视
+http://zourjke.eu.org:84/doudou.php?id=gzfilms_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湛江综合.png" group-title="其他",湛江综合
 http://zourjke.eu.org:84/doudou.php?id=zhanjiangzonghe_1500
-#EXTINF:-1,tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://epg.112114.xyz/logo/湛江公共..png" group-title="广东",湛江公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png" group-title="其他",湛江公共
 http://zourjke.eu.org:84/doudou.php?id=zhanjianggonggong_1500
-#EXTINF:-1,tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合..png" group-title="广东",韶关新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png" group-title="其他",韶关新闻综合
 http://zourjke.eu.org:84/doudou.php?id=shaoguanzonghe_1500
-#EXTINF:-1,tvg-id="韶关绿色生活" tvg-name="韶关绿色生活" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活..png" group-title="广东",韶关绿色生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活.png" group-title="其他",韶关绿色生活
 http://zourjke.eu.org:84/doudou.php?id=shaoguangonggong_1500
-#EXTINF:-1,tvg-id="始兴综合" tvg-name="始兴综合" tvg-logo="https://epg.112114.xyz/logo/始兴综合..png" group-title="广东",始兴综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/始兴综合.png" group-title="其他",始兴综合
 http://zourjke.eu.org:84/doudou.php?id=2641
-#EXTINF:-1,tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://epg.112114.xyz/logo/肇庆综合..png" group-title="广东",肇庆综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江门综合.png" group-title="其他",江门综合
+http://zourjke.eu.org:84/doudou.php?id=3712_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png" group-title="其他",江门侨乡生活
+http://zourjke.eu.org:84/doudou.php?id=jiangmenyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/新会综合.png" group-title="其他",新会综合
+http://zourjke.eu.org:84/doudou.php?id=xinhui_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/佛冈.png" group-title="其他",佛冈
+http://zourjke.eu.org:84/doudou.php?id=2405
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/怀集综合.png" group-title="其他",怀集综合
+http://zourjke.eu.org:84/doudou.php?id=2805
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png" group-title="其他",云浮综合
+http://zourjke.eu.org:84/doudou.php?id=yunfuyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png" group-title="其他",云浮文旅
+http://zourjke.eu.org:84/doudou.php?id=yunfuertao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海1.png" group-title="其他",珠海1
+http://zourjke.eu.org:84/doudou.php?id=zhuhaiyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珠海2.png" group-title="其他",珠海2
+http://zourjke.eu.org:84/doudou.php?id=zhuhaiertao_1500
+#EXTINF:-1,tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://epg.112114.xyz/logo/河源综合.png" group-title="其他",河源综合
+http://zourjke.eu.org:84/doudou.php?id=heyuanyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/河源公共.png" group-title="其他",河源公共
+http://zourjke.eu.org:84/doudou.php?id=heyuanertao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/肇庆综合.png" group-title="其他",肇庆综合
 http://zourjke.eu.org:84/doudou.php?id=zhaoqingyitao_1500
-#EXTINF:-1,tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务..png" group-title="广东",肇庆生活服务
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png" group-title="其他",肇庆生活服务
 http://zourjke.eu.org:84/doudou.php?id=zhaoqingertao_1500
-#EXTINF:-1,tvg-id="怀集综合" tvg-name="怀集综合" tvg-logo="https://epg.112114.xyz/logo/怀集综合..png" group-title="广东",怀集综合
-http://zourjke.eu.org:84/doudou.php?id=2805_2000
-#EXTINF:-1,tvg-id="广州共享课堂一年级" tvg-name="广州共享课堂一年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png" group-title="其他",广州共享课堂一年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png" group-title="其他",揭阳综合
+http://zourjke.eu.org:84/doudou.php?id=jieyangyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png" group-title="其他",揭阳生活
+http://zourjke.eu.org:84/doudou.php?id=jieyangertao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png" group-title="其他",清远新闻综合
+http://zourjke.eu.org:84/doudou.php?id=qingyuanzonghe_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png" group-title="其他",清远文旅生活
+http://zourjke.eu.org:84/doudou.php?id=qingyuangongong_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png" group-title="其他",汕尾新闻综合
+http://zourjke.eu.org:84/doudou.php?id=shanweiyitao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png" group-title="其他",汕尾文化生活
+http://zourjke.eu.org:84/doudou.php?id=shanweiertao_1500
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png" group-title="其他",广州共享课堂一年级
 http://zourjke.eu.org:84/doudou.php?id=2061_1500
-#EXTINF:-1,tvg-id="广州共享课堂二年级" tvg-name="广州共享课堂二年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png" group-title="其他",广州共享课堂二年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png" group-title="其他",广州共享课堂二年级
 http://zourjke.eu.org:84/doudou.php?id=2062_1500
-#EXTINF:-1,tvg-id="广州共享课堂三年级" tvg-name="广州共享课堂三年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂三年级.png" group-title="其他",广州共享课堂三年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂三年级.png" group-title="其他",广州共享课堂三年级
 http://zourjke.eu.org:84/doudou.php?id=2063_1500
-#EXTINF:-1,tvg-id="广州共享课堂四年级" tvg-name="广州共享课堂四年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂四年级.png" group-title="其他",广州共享课堂四年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂四年级.png" group-title="其他",广州共享课堂四年级
 http://zourjke.eu.org:84/doudou.php?id=2064_1500
-#EXTINF:-1,tvg-id="广州共享课堂五年级" tvg-name="广州共享课堂五年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂五年级.png" group-title="其他",广州共享课堂五年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂五年级.png" group-title="其他",广州共享课堂五年级
 http://zourjke.eu.org:84/doudou.php?id=2065_1500
-#EXTINF:-1,tvg-id="广州共享课堂六年级" tvg-name="广州共享课堂六年级" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂六年级.png" group-title="其他",广州共享课堂六年级
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂六年级.png" group-title="其他",广州共享课堂六年级
 http://zourjke.eu.org:84/doudou.php?id=2066_1500
-#EXTINF:-1,tvg-id="广州共享课堂初一" tvg-name="广州共享课堂初一" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初一.png" group-title="其他",广州共享课堂初一
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初一.png" group-title="其他",广州共享课堂初一
 http://zourjke.eu.org:84/doudou.php?id=2067_1500
-#EXTINF:-1,tvg-id="广州共享课堂初二" tvg-name="广州共享课堂初二" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初二.png" group-title="其他",广州共享课堂初二
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初二.png" group-title="其他",广州共享课堂初二
 http://zourjke.eu.org:84/doudou.php?id=2068_1500
-#EXTINF:-1,tvg-id="广州共享课堂初三" tvg-name="广州共享课堂初三" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初三.png" group-title="其他",广州共享课堂初三
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初三.png" group-title="其他",广州共享课堂初三
 http://zourjke.eu.org:84/doudou.php?id=2069_1500
-#EXTINF:-1,tvg-id="广州共享课堂高一" tvg-name="广州共享课堂高一" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高一.png" group-title="其他",广州共享课堂高一
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高一.png" group-title="其他",广州共享课堂高一
 http://zourjke.eu.org:84/doudou.php?id=2070_1500
-#EXTINF:-1,tvg-id="广州共享课堂高二" tvg-name="广州共享课堂高二" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高二.png" group-title="其他",广州共享课堂高二
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高二.png" group-title="其他",广州共享课堂高二
 http://zourjke.eu.org:84/doudou.php?id=2071_1500
